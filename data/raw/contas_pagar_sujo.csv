@@ -1,0 +1,183 @@
+﻿id_conta,data_emissao,data_vencimento,id_fornecedor,descricao,categoria,valor,status,responsavel
+5001,2026-01-02,2026-01-09,2010,Compra de alimentos,Serviços,1600.35,Pago,Vinicius Castro
+5002,2026-01-03,2026-02-02,2018,Conta de energia,Infraestrutura,4221.02,Pago,Karen Freitas
+5003,2026-01-04,2026-01-19,2013,Serviço contábil,Infraestrutura,1265.06,Aprovacao,Igor Mendes
+5004,2026-01-05,2026-02-19,2005,Serviço de limpeza,Tecnologia,1292.94,Aprovacao,Wesley Martins
+5005,2026-01-07,2026-01-22,2001,Serviço de internet,Administrativo,3860.91,Pendente,Rodrigo Tavares
+5006,2026-01-08,15/02/2026,2001,Compra de alimentos,Serviços,11757.81,Pendente,Carlos Eduardo
+5007,2026-01-09,2026-02-23,2018,Serviço de transporte,Tecnologia,2252.4,Pendente,Fabio Correia
+5008,2026-01-11,2026-02-01,2015,Material de informática,Administrativo,382.84,Pago,Vinicius Castro
+5009,2026-01-12,2026-02-11,2017,Material de escritório,Operacional,,Aprovacao,Sandra Batista
+5010,2026-01-13,2026-01-20,2011,Serviço de transporte,Infraestrutura,9717.71,Pago,Hugo Barros
+5011,2026-01-15,2026-02-12,2017,Compra de alimentos,Administrativo,4273.32,Pago,Carlos Eduardo
+5012,2026-01-16,2026-01-23,2013,Serviço de transporte,Operacional,"1.250,50",Pago,Vinicius Castro
+5013,2026-01-17,2026-02-14,2001,Compra de alimentos,Administrativo,7860.32, pago ,Sandra Batista
+5014,2026-01-19,2026-01-26,2002,Compra de alimentos,Infraestrutura,748.06,Pago,Leticia Cardoso
+5015,2026-01-20,2026-03-06,2009,Manutenção predial,Infraestrutura,11398.9,Pendente,Vinicius Castro
+5016,2026-01-21,2026-02-20,2003,Conta de energia,,10660.56,Pago,Leticia Cardoso
+5017,2026-01-23,2026-02-20,2001,Serviço de internet,Serviços,3263.76,Pendente,Felipe Cunha
+5018,2026-01-24,2026-02-14,2016,Manutenção predial,Administrativo,360.9,Pago,Hugo Barros
+5019,2026-01-25,2026-02-01,2006,Material de informática,Administrativo,11213.22,Pago,Fabio Correia
+5020,2026-01-26,2026/03/18,2017,Manutenção predial,Operacional,6102.29,Pago,Leticia Cardoso
+5021,2026-01-28,2026-02-25,2005,Licença de software,Infraestrutura,6555.44,Pago,Ingrid Souza
+5022,2026-01-29,2026-02-19,2005,Licença de software,Administrativo,8264.45,Pendente,Patricia Teixeira
+5023,2026-01-30,2026-02-20,2006,Serviço de internet,Infraestrutura,7459.36,Pago,Wesley Martins
+5024,2026-02-01,2026-03-18,2003,Serviço de transporte,Administrativo,11336.8,Pendente,Fabio Correia
+5025,2026-02-02,2026-03-19,2005,Conta de energia,Tecnologia,11341.05,Pago,Igor Mendes
+5026,2026-02-03,2026-03-20,2005,Serviço de internet,Serviços,10430.29,Pendente,Fabio Correia
+5027,2026-02-05,2026-03-22,2010,Compra de alimentos,Administrativo,7702.29,Aprovacao,Leticia Cardoso
+5028,2026-02-06,2026-03-23,2010,Serviço de limpeza,Infraestrutura,9647.22,PAGO,Leticia Cardoso
+5029,2026-02-07,2026-03-24,2019,Conta de energia,Tecnologia,8184.13,Pago,Bruno Henrique Costa
+5030,2026-02-09,2026-03-11,2017,Conta de energia,Administrativo,6957.2,Pago,Carlos Eduardo
+5031,2026-02-10,2026-03-03,2014,Compra de alimentos,Operacional,1698.87,Pago,Wesley Martins
+5032,2026-02-11,2026-03-28,2009,Compra de alimentos,Serviços,9768.43,Pendente,Ingrid Souza
+5033,2026-02-13,2026-03-06,2014,Material de escritório,Administrativo,9879.96,Pago,Sandra Batista
+5034,2026-02-14,2026-03-07,2001,Serviço de internet,Tecnologia,7578.61,Pago,Fabio Correia
+5035,2026-02-15,2026-03-02,2019,Compra de alimentos,Operacional,9877.45,Pendente,Bruno Henrique Costa
+5036,2026-02-16,2026-03-18,2013,Licença de software,Tecnologia,7880.55,Pago,Sandra Batista
+5037,2026-02-18,2026-04-04,2013,Material de informática,Tecnologia,2623.01,Pendente,Giovana Lopes
+5038,2026-02-19,2026-02-26,2004,Serviço de limpeza,Operacional,,Pago,Leticia Cardoso
+5039,2026-02-20,2026-03-20,2001,Serviço de internet,Tecnologia,2716.44,Pago,Karen Freitas
+5040,2026-02-22,2026-03-01,2017,Serviço contábil,Operacional,4639.2,Pendente,Leticia Cardoso
+5041,2026-02-23,2026-03-25,2008,Licença de software,Administrativo,640.54,Pago,Taina Lopes
+5042,2026-02-24,2026-03-24,2002,Serviço de transporte,Operacional,7487.76,Pendente,Henrique Dias
+5043,2026-02-26,2026-03-28,2008,Compra de alimentos,administrativo ,4158.07,Pago,Tatiane Rocha
+5044,2026-02-27,2026-03-20,2007,Serviço contábil,Serviços,7930.64,Pago,Carlos Eduardo
+5045,2026-02-28,2026-03-28,2002,Compra de alimentos,Operacional,4735.39,Pendente,Diego Fernandes
+5046,2026-03-02,2026-03-23,2003,Conta de energia,Operacional,8236.67,Pendente,Vinicius Castro
+5047,2026-03-03,2026-03-10,2018,Licença de software,Administrativo,4206.18,Pendente,Karen Freitas
+5048,2026-03-04,2026-03-11,2012,Conta de energia,Serviços,3261.41,Pago,Leticia Cardoso
+5049,2026-03-06,2026-04-03,2001,Material de escritório,Infraestrutura,6043.16,Pendente,Ingrid Souza
+5050,2026-03-07,2026-04-04,2012,Conta de energia,Administrativo,8369.96,Pago,Yasmin Alves
+5051,2026-03-08,2026-04-22,2005,Material de escritório,Administrativo,4297.34,Pago,Henrique Dias
+5052,2026-03-09,2026-04-08,2017,Material de escritório,Infraestrutura,11251.18,Aprovacao,Henrique Dias
+5053,2026-03-11,2026-04-25,2016,Serviço contábil,Operacional,643.18,Pago,Karen Freitas
+5054,2026-03-12,2026-04-11,2015,Compra de alimentos,Tecnologia,5120.12,Cancelado,Taina Lopes
+5055,2026-03-13,2026-04-27,2015,Serviço de transporte,Serviços,11616.8,Pago,Diego Fernandes
+5056,2026-03-15,2026-04-05,2005,Conta de energia,Tecnologia,6657.03,Pago,Hugo Barros
+5057,2026-03-16,2026-04-13,2014,Licença de software,Infraestrutura,5185.43,Pendente,Tatiane Rocha
+5058,2026-03-17,2026-03-24,2002,Material de escritório,Administrativo,6899.91,Aprovacao,Igor Mendes
+5059,2026-03-19,2026-04-18,2011,Compra de alimentos,Administrativo,6987.43,Pendente,Priscila Monteiro
+5060,2026-03-20,2026-04-19,2019,Serviço de limpeza,Serviços,8828.08,Pendente,Leticia Cardoso
+5061,2026-03-21,2026-03-28,2007,Serviço de internet,Administrativo,1689.29,Pendente,Leonardo Vieira
+5062,2026-03-23,2026-05-07,2006,Serviço contábil,Administrativo,3135.19,Pendente,Diego Fernandes
+5063,2026-03-24,2026-04-23,2002,Serviço de transporte,Serviços,7042.03,Aprovacao,Igor Mendes
+5064,2026-03-25,2026-04-15,2006,Manutenção predial,ADMINISTRATIVO,10429.32,Pago,Leticia Cardoso
+5065,2026-03-27,2026-04-24,2018,Serviço contábil,Infraestrutura,6821.26,Pago,Priscila Monteiro
+5066,2026-03-28,2026-04-04,2002,Serviço de limpeza,Administrativo,3000.21,Pago,Felipe Cunha
+5067,2026-03-29,2026-04-26,2018,Serviço de internet,Administrativo,8215.77,Cancelado,Giovana Lopes
+5068,2026-03-30,2026-04-29,2015,Serviço de limpeza,Infraestrutura,8925.72,Aprovacao,Felipe Cunha
+5069,2026-04-01,2026-05-01,2019,Conta de energia,Operacional,2995.95,Pago,Fabio Correia
+5070,2026-04-02,2026-04-09,2002,Material de escritório,Operacional,4644.76,Pendente,Igor Mendes
+5071,2026-04-03,2026-04-24,2020,Serviço de transporte,Operacional,"R$ 2.340,00",Aprovacao,Wesley Martins
+5072,2026-04-05,2026-04-20,2006,Material de informática,Infraestrutura,6049.35,Pago,Leticia Cardoso
+5073,2026-04-06,2026-04-13,2001,Material de escritório,Administrativo,4785.29,Pendente,Patricia Teixeira
+5074,2026-04-07,2026-04-22,2015,Material de informática,Infraestrutura,3698.05,Aprovacao,Sandra Batista
+5075,2026-04-09,2026-05-24,2010,Serviço de internet,,1361.82,Pago,Carlos Eduardo
+5076,2026-04-10,2026-04-25,2019,Compra de alimentos,Operacional,812.2,Pendente,Ingrid Souza
+5077,2026-04-11,2026-05-02,2017,Manutenção predial,Tecnologia,11509.96,Pago,Diego Fernandes
+5078,2026-04-13,2026-05-28,2005,Licença de software,Administrativo,10193.23,Aprovacao,Henrique Dias
+5079,2026-04-14,2026-04-29,2004,Material de escritório,Operacional,4374.98,Cancelado,Giovana Lopes
+5080,2026-04-15,2026-05-30,2010,Serviço de transporte,Tecnologia,11489.39,Aprovacao,Igor Mendes
+5081,2026-04-17,2026-05-02,2017,Serviço de limpeza,Tecnologia,8179.42,Pago,Rodrigo Tavares
+5082,2026-04-18,2026-05-09,2010,Serviço de transporte,Serviços,5883.4,Aprovacao,Vinicius Castro
+5083,2026-04-19,2026-05-04,2017,Serviço de internet,Administrativo,6007.56,Aprovacao,Vitor Hugo
+5084,2026-04-20,2026-05-05,2020,Material de informática,Tecnologia,1164.42,Pago,Tatiane Rocha
+5085,2026-04-22,2026-05-07,2005,Serviço de limpeza,Operacional,1263.94,Pendente,Raquel Mendes
+5086,2026-04-23,2026-04-30,2002,Licença de software,Serviços,7300.85,Pago,Tatiane Rocha
+5087,2026-04-24,2026-05-01,2006,Licença de software,Administrativo,6724.77,Pendente,Hugo Barros
+5088,2026-04-26,2026-05-03,2002,Material de escritório,Infraestrutura,2694.44,Pago,Tatiane Rocha
+5089,2026-04-27,18-05-2026,2013,Serviço de internet,Operacional,11364.02,Pago,Felipe Cunha
+5090,2026-04-28,2026-06-12,2011,Compra de alimentos,Tecnologia,9414.92,Pago,Leonardo Vieira
+5091,2026-04-30,2026-05-30,2011,Serviço de internet,Tecnologia,1521.15,Pendente,Vitor Hugo
+5092,2026-05-01,2026-05-16,2016,Material de informática,Operacional,,Pago,Felipe Cunha
+5093,2026-05-02,2026-05-17,2011,Serviço de transporte,Tecnologia,11695.61,Pendente,Henrique Dias
+5094,2026-05-04,2026-05-25,2019,Licença de software,Serviços,11951.91,Pago,Vitor Hugo
+5095,2026-05-05,2026-05-20,2015,Serviço de transporte,Administrativo,840.4,Pago,Bruno Henrique Costa
+5096,2026-05-06,2026-05-13,2016,Serviço de transporte,Serviços,8891.76,Pendente,Vitor Hugo
+5097,2026-05-08,2026-06-07,2011,Serviço de transporte,Tecnologia,6632.72,Pendente,Wesley Martins
+5098,2026-05-09,2026-06-06,2016,Licença de software,Infraestrutura,8522.93,Pago,Hugo Barros
+5099,2026-05-10,2026-05-25,2008,Serviço contábil,Administrativo,11629.47,Pendente,Hugo Barros
+5100,2026-05-11,2026-05-18,2004,Conta de energia,Administrativo,8312.51,Aprovacao,Priscila Monteiro
+5101,2026-05-13,2026-06-10,2008,Material de informática,Operacional,10072.91,Pendente,Rodrigo Tavares
+5102,2026-05-14,2026-06-13,2004,Serviço contábil,Operacional,10426.39,Pago,Leonardo Vieira
+5103,2026-05-15,2026-06-12,2003,Material de informática,Infraestrutura,10090.84,Pago,Tatiane Rocha
+5104,2026-05-17,2026-05-24,2003,Serviço de limpeza,Administrativo,5216.4,Aprovacao,Patricia Teixeira
+5105,2026-05-18,2026-07-02,2018,Serviço de internet,Infraestrutura,2810.85,Pago,Raquel Mendes
+5106,2026-05-19,2026-07-03,2019,Serviço de internet,Operacional,4868.42,Aprovacao,Leonardo Vieira
+5107,2026-05-21,2026-06-18,2019,Manutenção predial,Operacional,10722.22,Pendente,Diego Fernandes
+5108,2026-05-22,2026-06-12,2005,Serviço de internet,Administrativo,1912.87,Aprovacao,Karen Freitas
+5109,2026-05-23,2026-06-20,2018,Licença de software,Serviços,6247.52,Pendente,Bruno Henrique Costa
+5110,2026-05-25,2026-06-09,2010,Compra de alimentos,Tecnologia,2936.76,Cancelado,Carlos Eduardo
+5111,2026-05-26,2026-06-10,2006,Material de escritório,Operacional,7051.03,Pago,Rodrigo Tavares
+5112,2026-05-27,2026-07-11,2001,Manutenção predial,Operacional,10382.3,Pendente,Rodrigo Tavares
+5113,2026-05-29,2026-06-19,2005,Material de escritório,Serviços,10585.85,Pago,Ingrid Souza
+5114,2026-05-30,2026-06-06,2009,Material de informática,Serviços,2977.62,Pago,Karen Freitas
+5115,2026-05-31,2026-06-15,2012,Material de escritório,Infraestrutura,10908.94,Pendente,Yasmin Alves
+5116,2026-06-01,2026-07-16,2014,Material de escritório,Infraestrutura,7176.12,Aprovacao,Igor Mendes
+5117,2026-06-03,2026-07-03,2002,Manutenção predial,Tecnologia,4319.58,Cancelado,Priscila Monteiro
+5118,2026-06-04,2026-07-19,2017,Serviço de limpeza,Tecnologia,8550.7,Pendente,Igor Mendes
+5119,2026-06-05,2026-06-20,2014,Serviço de transporte,Administrativo,5873.3,Pago,Tatiane Rocha
+5120,2026-06-07,2026-06-22,2013,Serviço de internet,Infraestrutura,4647.81,Pago,Felipe Cunha
+5121,2026-06-08,2026-07-23,2009,Serviço de internet,Operacional,8514.1,Pendente,Patricia Teixeira
+5122,2026-06-09,2026-06-16,2015,Licença de software,Infraestrutura,3119.92,Pago,Leticia Cardoso
+5123,2026-06-11,2026-07-09,2015,Manutenção predial,Operacional,4083.58,Pago,Giovana Lopes
+5124,2026-06-12,2026-06-27,2011,Licença de software,Serviços,5315.22,Pago,Diego Fernandes
+5125,2026-06-13,2026-07-28,2016,Compra de alimentos,Infraestrutura,3178.52,Pago,Rodrigo Tavares
+5126,2026-06-15,2026-07-30,2017,Compra de alimentos,Serviços,4969.49,Pago,Yasmin Alves
+5127,2026-06-16,2026-07-07,2004,Licença de software,Tecnologia,6934.81,Pago,Karen Freitas
+5128,2026-06-17,2026-07-15,2001,Manutenção predial,Tecnologia,8938.31,Pago,Raquel Mendes
+5129,2026-06-19,2026-07-19,2008,Licença de software,Administrativo,9248.24,Pago,Igor Mendes
+5130,2026-06-20,2026-06-27,2017,Serviço de internet,Infraestrutura,9905.38,Cancelado,Rodrigo Tavares
+5131,2026-06-21,2026-07-21,2003,Serviço contábil,Serviços,8976.58,Pago,Priscila Monteiro
+5132,2026-06-22,2026-07-20,2020,Conta de energia,Operacional,8229.89,Pago,Raquel Mendes
+5133,2026-06-24,2026-07-22,2015,Material de escritório,Tecnologia,2987.33,Pendente,Vitor Hugo
+5134,2026-06-25,2026-07-23,2015,Conta de energia,Tecnologia,4910.63,Pago,Karen Freitas
+5135,2026-06-26,2026-07-26,2014,Manutenção predial,Operacional,5826.59,Aprovacao,Patricia Teixeira
+5136,2026-06-28,2026-07-26,2014,Conta de energia,Serviços,1159.78,Pendente,Felipe Cunha
+5137,2026-06-29,2026-08-13,2002,Compra de alimentos,Serviços,6425.33,Pago,Leonardo Vieira
+5138,2026-06-30,2026-07-30,2013,Material de informática,Infraestrutura,5337.49,Pago,Wesley Martins
+5139,2026-07-02,2026-07-30,2014,Material de escritório,Infraestrutura,9660.93,Aprovacao,Taina Lopes
+5140,2026-07-03,2026-08-17,2019,Serviço de transporte,Administrativo,11738.79,Aprovacao,Rodrigo Tavares
+5141,2026-07-04,2026-07-25,2007,Manutenção predial,Tecnologia,6751.98,Pago,Sandra Batista
+5142,2026-07-06,2026-08-03,2003,Material de escritório,Infraestrutura,3994.15,Pendente,Vinicius Castro
+5143,2026-07-07,2026-08-06,2015,Conta de energia,Serviços,693.0,Pago,Raquel Mendes
+5144,2026-07-08,2026-07-23,2014,Compra de alimentos,Operacional,11109.28,Cancelado,Carlos Eduardo
+5145,2026-07-10,2026-08-07,2011,Serviço de limpeza,Serviços,11043.95,Pago,Ingrid Souza
+5146,2026-07-11,2026-07-26,2015,Serviço contábil,Tecnologia,3170.34,Aprovacao,Vinicius Castro
+5147,2026-07-12,2026-08-26,2013,Serviço de transporte,Serviços,8399.76,Pendente,Patricia Teixeira
+5148,2026-07-13,2026-08-03,2018,Serviço contábil,Administrativo,1071.64,Pendente,Bruno Henrique Costa
+5149,2026-07-15,2026-07-22,2006,Material de escritório,Tecnologia,2144.67,Pago,Carlos Eduardo
+5150,2026-07-16,2026-08-06,2003,Compra de alimentos,Operacional,2742.68,Pago,Rodrigo Tavares
+5151,2026-07-17,2026-08-14,2019,Compra de alimentos,Administrativo,3660.92,Pago,Igor Mendes
+5152,2026-07-19,2026-08-03,2015,Conta de energia,Tecnologia,11950.73,Pago,Patricia Teixeira
+5153,2026-07-20,2026-08-04,2005,Serviço de internet,Operacional,8417.65,Pago,Felipe Cunha
+5154,2026-07-21,2026-08-20,2010,Conta de energia,Administrativo,4721.27,Pendente,Wesley Martins
+5155,2026-07-23,2026-08-07,2007,Serviço de internet,Administrativo,8892.53,Pago,Leonardo Vieira
+5156,2026-07-24,2026-08-23,2017,Serviço de internet,Tecnologia,10998.31,Pago,Hugo Barros
+5157,2026-07-25,2026-09-08,2007,Serviço de transporte,Infraestrutura,11511.86,Cancelado,Rodrigo Tavares
+5158,2026-07-27,2026-08-03,2012,Conta de energia,Administrativo,863.95,Aprovacao,Leonardo Vieira
+5159,2026-07-28,2026-08-25,2017,Serviço de limpeza,Administrativo,4843.25,Aprovacao,Sandra Batista
+5160,2026-07-29,2026-08-28,2013,Licença de software,Operacional,1441.86,Cancelado,Fabio Correia
+5161,2026-07-31,2026-08-07,2020,Licença de software,Serviços,4147.5,Pago,Priscila Monteiro
+5162,2026-08-01,2026-08-16,2004,Conta de energia,Tecnologia,2185.62,Pago,Felipe Cunha
+5163,2026-08-02,2026-08-17,2010,Conta de energia,Tecnologia,7825.75,Pendente,Taina Lopes
+5164,2026-08-03,2026-08-10,2003,Serviço contábil,Infraestrutura,4769.33,Pendente,Fabio Correia
+5165,2026-08-05,2026-08-20,2009,Serviço de transporte,Infraestrutura,2891.45,Pago,Rodrigo Tavares
+5166,2026-08-06,2026-09-20,2013,Conta de energia,Tecnologia,3323.39,Pendente,Priscila Monteiro
+5167,2026-08-07,2026-09-21,2018,Serviço contábil,Infraestrutura,4439.28,Pago,Hugo Barros
+5168,2026-08-09,2026-08-16,2015,Serviço de internet,Operacional,3252.61,Pago,Raquel Mendes
+5169,2026-08-10,2026-09-09,2004,Compra de alimentos,Tecnologia,5537.31,Pendente,Diego Fernandes
+5170,2026-08-11,2026-09-10,2015,Compra de alimentos,Infraestrutura,561.97,Pendente,Patricia Teixeira
+5171,2026-08-13,2026-08-20,2002,Serviço de internet,Tecnologia,3486.8,Pendente,Leonardo Vieira
+5172,2026-08-14,2026-09-13,2015,Manutenção predial,Serviços,5040.46,Pago,Taina Lopes
+5173,2026-08-15,2026-09-14,2008,Serviço contábil,Administrativo,7304.88,Aprovacao,Wesley Martins
+5174,2026-08-17,2026-10-01,2008,Serviço contábil,Tecnologia,3382.72,Pago,Patricia Teixeira
+5175,2026-08-18,2026-09-17,2017,Serviço de internet,Administrativo,1754.25,Pago,Raquel Mendes
+5176,2026-08-19,2026-09-09,2012,Serviço de limpeza,Infraestrutura,1080.69,Aprovacao,Priscila Monteiro
+5177,2026-08-21,2026-09-18,2019,Material de informática,Administrativo,11297.09,Cancelado,Rodrigo Tavares
+5178,2026-08-22,2026-09-06,2010,Material de escritório,Tecnologia,5104.67,Aprovacao,Priscila Monteiro
+5179,2026-08-23,2026-09-13,2009,Serviço de internet,Serviços,7049.34,Pendente,Diego Fernandes
+5180,2026-08-25,2026-09-24,2005,Conta de energia,Infraestrutura,11044.67,Pendente,Felipe Cunha
+5021,2026-01-28,2026-02-25,2005,Licença de software,Infraestrutura,6555.44,Pago,Ingrid Souza
+5056,2026-03-15,2026-04-05,2005,Conta de energia,Tecnologia,6657.03,Pago,Hugo Barros

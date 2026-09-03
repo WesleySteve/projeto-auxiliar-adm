@@ -1,0 +1,221 @@
+﻿id_movimentacao,data,tipo,categoria,descricao,valor,responsavel
+9001,2026-01-02,Saida,Impostos,Compra material,14583.18,Raquel Mendes
+9002,2026-01-03,Saida,Folha,Conta de energia,3504.45,Juliana Barbosa
+9003,2026-01-04,Saida,Aluguel,Pagamento fornecedor,14664.04,Gisele Moraes
+9004,2026-01-05,Entrada,Aluguel,Folha salarial,8025.5,Carlos Eduardo
+9005,2026-01-06,Saida,Fornecedores,Conta de energia,2123.26,Aline Pereira
+9006,2026-01-07,Saida,Outros,Conta de energia,1579.6,Aline Pereira
+9007,2026-01-08,Saida,Energia,Recebimento de cliente,3212.07,Amanda Melo
+9008,2026-01-09,Saida,Vendas,Recebimento de cliente,13892.0,Natalia Gomes
+9009,2026-01-10,Saida,Energia,Compra material,6270.84,Priscila Monteiro
+9010,2026-01-11,Entrada,Impostos,Pagamento aluguel,5991.97,Leticia Cardoso
+9011,2026-01-13,Saida,Impostos,Recebimento de cliente,4766.77,Diego Fernandes
+9012,2026-01-14,Saida,Recebimentos,Recebimento de cliente,2291.22,Caio Ribeiro
+9013,2026-01-15,Saida,Folha,Recebimento de cliente,7368.98,Lucas Carvalho
+9014,2026-01-16,Saida,Aluguel,Compra material,2037.71,Renata Moreira
+9015,2026-01-17,Saida,Energia,Pagamento aluguel,12548.66,Daniel Almeida
+9016,2026-01-18,Entrada,Impostos,Folha salarial,5618.92,Gisele Moraes
+9017,2026-01-19,Saida,Outros,Folha salarial,5684.57,Elaine Moura
+9018,2026-01-20,Entrada,Fornecedores,Licença software,7162.7,Joao Pedro
+9019,2026-01-21,Entrada,Vendas,Licença software,6717.5,Igor Mendes
+9020,2026-01-22,Saida,Folha,Recebimento de cliente,14923.38,Aline Pereira
+9021,2026-01-24,Saida,Outros,Licença software,8226.18,Vinicius Castro
+9022,2026-01-25,Entrada,Folha,Pagamento aluguel,1414.21,Tatiane Rocha
+9023,2026-01-26,Entrada,Recebimentos,Compra material,9142.47,Tatiane Rocha
+9024,2026-01-27,Saida,Impostos,Folha salarial,2358.61,Mariana Ribeiro
+9025,2026-01-28,Entrada,Fornecedores,Conta de energia,560.97,Priscila Monteiro
+9026,2026-01-29,Entrada,Outros,Folha salarial,14564.06,William Araujo
+9027,2026-01-30,Entrada,Folha,Folha salarial,11625.73,Renata Moreira
+9028,2026-01-31,Entrada,Aluguel,Pagamento aluguel,14703.62,Priscila Monteiro
+9029,2026-02-01,Entrada,Recebimentos,Licença software,7220.39,Paulo Cesar
+9030,2026-02-02,Entrada,Aluguel,Conta de energia,8030.64,Hugo Barros
+9031,2026-02-04,Entrada,Fornecedores,Pagamento aluguel,2608.22,Sandra Batista
+9032,2026-02-05,Saida,Outros,Recebimento de cliente,3778.92,Henrique Dias
+9033,2026-02-06,Saida,Recebimentos,Compra material,12594.38,Valeria Campos
+9034,2026-02-07,Saida,Outros,Pagamento imposto,5407.17,Monica Duarte
+9035,2026-02-08,Entrada,Impostos,Folha salarial,12419.54,Gisele Moraes
+9036,2026-02-09,Entrada,Tecnologia,Pagamento imposto,10664.3,Hugo Barros
+9037,2026-02-10,Saida,Recebimentos,Compra material,2739.85,Sergio Alves
+9038,2026-02-11,Entrada,Aluguel,Compra material,7660.95,Otavio Lima
+9039,2026-02-12,Saida,Fornecedores,Pagamento aluguel,10193.07,Monica Duarte
+9040,2026-02-13,Saida,Impostos,Pagamento aluguel,3602.05,Caio Ribeiro
+9041,2026-02-15,Saida,Tecnologia,Pagamento aluguel,12477.26,Valeria Campos
+9042,2026-02-16,Entrada,Vendas,Pagamento imposto,8217.93,Wesley Martins
+9043,2026-02-17,Entrada,Impostos,Pagamento aluguel,2562.11,Gabriel Rodrigues
+9044,2026-02-18,Saida,Fornecedores,Compra material,8786.47,Valeria Campos
+9045,2026-02-19,Entrada,Folha,Recebimento de cliente,14995.74,Natalia Gomes
+9046,2026-02-20,Saida,Recebimentos,Pagamento aluguel,2342.77,Sergio Alves
+9047,2026-02-21,Saida,Outros,Pagamento fornecedor,12269.68,Priscila Monteiro
+9048,2026-02-22,Saida,Fornecedores,Licença software,3188.9,Natalia Gomes
+9049,2026-02-23,Entrada,Recebimentos,Pagamento imposto,11757.59,Nicolas Braga
+9050,2026-02-24,Saida,Outros,Pagamento fornecedor,11045.21,Karen Freitas
+9051,2026-02-26,Saida,Energia,Pagamento aluguel,4577.29,Bruno Henrique Costa
+9052,2026-02-27,Entrada,Aluguel,Compra material,4954.76,Rafael Nunes
+9053,2026-02-28,Entrada,Vendas,Recebimento de cliente,11908.57,Igor Mendes
+9054,2026-03-01,Saida,Impostos,Folha salarial,6975.54,Igor Mendes
+9055,2026-03-02,Entrada,Fornecedores,Conta de energia,10989.19,Rodrigo Tavares
+9056,2026-03-03,Entrada,Vendas,Licença software,2304.96,Lucas Carvalho
+9057,2026-03-04,Entrada,Folha,Conta de energia,12803.11,Paulo Cesar
+9058,2026-03-05,Saida,Recebimentos,Pagamento aluguel,10692.18,Samuel Rocha
+9059,2026-03-06,Saida,Recebimentos,Licença software,13613.45,Beatriz Martins
+9060,2026-03-07,Saida,Fornecedores,Licença software,2072.35,Leticia Cardoso
+9061,2026-03-09,Entrada,Tecnologia,Recebimento de cliente,8935.92,Nicolas Braga
+9062,2026-03-10,Entrada,Tecnologia,Licença software,9026.9,Debora Martins
+9063,2026-03-11,Saida,Energia,Pagamento imposto,5366.57,Carlos Eduardo
+9064,2026-03-12,Saida,Aluguel,Pagamento fornecedor,6931.15,Debora Martins
+9065,2026-03-13,Entrada,Outros,Pagamento fornecedor,665.93,Debora Martins
+9066,2026-03-14,Saida,Folha,Pagamento fornecedor,11213.31,Marcelo Pinto
+9067,2026-03-15,Saida,Vendas,Pagamento imposto,8284.9,Igor Mendes
+9068,2026-03-16,Saida,Tecnologia,Conta de energia,960.34,Diego Fernandes
+9069,2026-03-17,Saida,Energia,Recebimento de cliente,10243.26,Helena Ferreira
+9070,2026-03-18,Saida,Energia,Licença software,7055.05,Gabriel Rodrigues
+9071,2026-03-20,Entrada,Fornecedores,Pagamento imposto,613.47,Nicolas Braga
+9072,2026-03-21,Saida,Folha,Pagamento fornecedor,14547.16,Sergio Alves
+9073,2026-03-22,Saida,Outros,Pagamento aluguel,14241.77,Camila Oliveira Santos
+9074,2026-03-23,Entrada,Aluguel,Folha salarial,7742.25,Henrique Dias
+9075,2026-03-24,Saida,Impostos,Licença software,1495.72,Fernanda Souza
+9076,2026-03-25,Saida,Fornecedores,Pagamento imposto,11343.86,Caio Ribeiro
+9077,2026-03-26,Saida,Outros,Compra material,7429.77,Caio Ribeiro
+9078,2026-03-27,Saida,Impostos,Pagamento imposto,4606.47,Aline Pereira
+9079,2026-03-28,Saida,Impostos,Recebimento de cliente,7422.13,Henrique Dias
+9080,2026-03-29,Saida,Folha,Recebimento de cliente,7884.42,Thiago Rezende
+9081,2026-03-31,Entrada,Folha,Pagamento imposto,8484.4,Paulo Cesar
+9082,2026-04-01,Saida,Vendas,Pagamento fornecedor,6674.23,Paulo Cesar
+9083,2026-04-02,Entrada,Energia,Folha salarial,9125.75,Ana Paula Silva
+9084,2026-04-03,Entrada,Outros,Licença software,13789.15,Nicolas Braga
+9085,2026-04-04,Entrada,Fornecedores,Recebimento de cliente,5497.79,Aline Pereira
+9086,2026-04-05,Saida,Recebimentos,Licença software,10913.18,Wesley Martins
+9087,2026-04-06,Entrada,Fornecedores,Pagamento fornecedor,13427.34,Amanda Melo
+9088,2026-04-07,Saida,Vendas,Licença software,6894.09,Monica Duarte
+9089,2026-04-08,Saida,Aluguel,Pagamento aluguel,6707.49,Natalia Gomes
+9090,2026-04-09,Saida,Energia,Recebimento de cliente,9071.54,Taina Lopes
+9091,2026-04-11,Entrada,Recebimentos,Pagamento fornecedor,8911.96,Ingrid Souza
+9092,2026-04-12,Saida,Tecnologia,Pagamento fornecedor,12118.18,Paulo Cesar
+9093,2026-04-13,Saida,Aluguel,Folha salarial,7199.6,Paulo Cesar
+9094,2026-04-14,Saida,Folha,Folha salarial,14942.23,Juliana Barbosa
+9095,2026-04-15,Entrada,Impostos,Pagamento aluguel,986.13,Nicole Martins
+9096,2026-04-16,Entrada,Tecnologia,Pagamento fornecedor,147.2,Caio Ribeiro
+9097,2026-04-17,Entrada,Fornecedores,Conta de energia,9638.95,Gisele Moraes
+9098,2026-04-18,Entrada,Fornecedores,Pagamento fornecedor,4546.68,Nicole Martins
+9099,2026-04-19,Entrada,Folha,Folha salarial,3681.7,Juliana Barbosa
+9100,2026-04-20,Saida,Vendas,Conta de energia,4747.3,Felipe Cunha
+9101,2026-04-22,Entrada,Outros,Recebimento de cliente,3915.11,Natalia Gomes
+9102,2026-04-23,Entrada,Tecnologia,Recebimento de cliente,558.77,Priscila Monteiro
+9103,2026-04-24,Entrada,Tecnologia,Licença software,14575.84,Rodrigo Tavares
+9104,2026-04-25,Entrada,Aluguel,Pagamento imposto,3389.11,Diego Fernandes
+9105,2026-04-26,Entrada,Energia,Folha salarial,11037.04,Bruno Henrique Costa
+9106,2026-04-27,Entrada,Aluguel,Pagamento imposto,11462.69,Beatriz Martins
+9107,2026-04-28,Entrada,Outros,Conta de energia,13945.94,Renata Moreira
+9108,2026-04-29,Saida,Fornecedores,Folha salarial,555.19,Nicolas Braga
+9109,2026-04-30,Saida,Fornecedores,Pagamento aluguel,13093.52,Otavio Lima
+9110,2026-05-01,Entrada,Fornecedores,Pagamento fornecedor,7955.67,Juliana Barbosa
+9111,2026-05-03,Entrada,Fornecedores,Pagamento aluguel,9524.91,Monica Duarte
+9112,2026-05-04,Saida,Outros,Conta de energia,9702.61,Elaine Moura
+9113,2026-05-05,Entrada,Folha,Folha salarial,12314.99,Camila Oliveira Santos
+9114,2026-05-06,Entrada,Energia,Compra material,5067.77,Gisele Moraes
+9115,2026-05-07,Saida,Outros,Conta de energia,11022.46,Rodrigo Tavares
+9116,2026-05-08,Entrada,Energia,Compra material,7975.81,Renata Moreira
+9117,2026-05-09,Saida,Outros,Pagamento fornecedor,11921.57,Mariana Ribeiro
+9118,2026-05-10,Saida,Fornecedores,Recebimento de cliente,14859.14,Paulo Cesar
+9119,2026-05-11,Entrada,Folha,Recebimento de cliente,3089.7,Matheus Pires
+9120,2026-05-12,Entrada,Tecnologia,Conta de energia,14920.26,Diego Fernandes
+9121,2026-05-14,Saida,Aluguel,Pagamento imposto,1438.2,Isabela Ramos
+9122,2026-05-15,Entrada,Impostos,Folha salarial,134.53,Amanda Melo
+9123,2026-05-16,Entrada,Folha,Folha salarial,758.01,Elaine Moura
+9124,2026-05-17,Saida,Tecnologia,Recebimento de cliente,5192.56,Nicolas Braga
+9125,2026-05-18,Saida,Vendas,Licença software,9530.3,Vitor Hugo
+9126,2026-05-19,Entrada,Outros,Pagamento aluguel,1128.54,Wesley Martins
+9127,2026-05-20,Saida,Vendas,Licença software,184.42,Fabio Correia
+9128,2026-05-21,Entrada,Tecnologia,Pagamento fornecedor,14062.66,Rodrigo Tavares
+9129,2026-05-22,Saida,Folha,Pagamento aluguel,12346.71,Ana Paula Silva
+9130,2026-05-23,Saida,Outros,Pagamento aluguel,12156.83,Vinicius Castro
+9131,2026-05-25,Saida,Impostos,Conta de energia,13277.92,Raquel Mendes
+9132,2026-05-26,Saida,Fornecedores,Recebimento de cliente,10530.51,Henrique Dias
+9133,2026-05-27,Saida,Outros,Licença software,1655.62,Rafael Nunes
+9134,2026-05-28,Entrada,Outros,Licença software,6046.59,Gisele Moraes
+9135,2026-05-29,Saida,Folha,Recebimento de cliente,10874.93,Renata Moreira
+9136,2026-05-30,Entrada,Folha,Licença software,4276.98,Thiago Rezende
+9137,2026-05-31,Entrada,Tecnologia,Compra material,10342.35,Henrique Dias
+9138,2026-06-01,Entrada,Recebimentos,Recebimento de cliente,465.03,Vitor Hugo
+9139,2026-06-02,Saida,Outros,Conta de energia,4661.45,Mariana Ribeiro
+9140,2026-06-03,Saida,Aluguel,Pagamento imposto,8282.04,Giovana Lopes
+9141,2026-06-05,Entrada,Outros,Pagamento aluguel,9518.14,Paulo Cesar
+9142,2026-06-06,Entrada,Tecnologia,Conta de energia,8697.91,Nicole Martins
+9143,2026-06-07,Saida,Energia,Folha salarial,10496.57,William Araujo
+9144,2026-06-08,Entrada,Vendas,Pagamento fornecedor,190.72,Yasmin Alves
+9145,2026-06-09,Entrada,Fornecedores,Pagamento imposto,1604.02,Gisele Moraes
+9146,2026-06-10,Saida,Recebimentos,Folha salarial,13047.27,Joao Pedro
+9147,2026-06-11,Saida,Impostos,Pagamento aluguel,10258.05,Valeria Campos
+9148,2026-06-12,Saida,Impostos,Licença software,1782.68,Marcelo Pinto
+9149,2026-06-13,Entrada,Impostos,Recebimento de cliente,12646.91,Priscila Monteiro
+9150,2026-06-14,Entrada,Folha,Pagamento aluguel,3709.25,Fernanda Souza
+9151,2026-06-16,Saida,Impostos,Conta de energia,7226.07,Gabriel Rodrigues
+9152,2026-06-17,Saida,Fornecedores,Pagamento fornecedor,2263.43,Leonardo Vieira
+9153,2026-06-18,Saida,Vendas,Conta de energia,10680.64,Leonardo Vieira
+9154,2026-06-19,Saida,Impostos,Pagamento imposto,10036.13,Nicole Martins
+9155,2026-06-20,Entrada,Outros,Pagamento imposto,3245.58,Elaine Moura
+9156,2026-06-21,Saida,Outros,Pagamento fornecedor,12964.67,Leticia Cardoso
+9157,2026-06-22,Entrada,Folha,Compra material,6079.46,Raquel Mendes
+9158,2026-06-23,Entrada,Fornecedores,Folha salarial,4458.47,Vitor Hugo
+9159,2026-06-24,Saida,Vendas,Folha salarial,2369.71,Gabriel Rodrigues
+9160,2026-06-25,Entrada,Recebimentos,Pagamento imposto,4065.9,Matheus Pires
+9161,2026-06-27,Entrada,Tecnologia,Pagamento imposto,428.2,Taina Lopes
+9162,2026-06-28,Saida,Vendas,Licença software,8790.54,Mariana Ribeiro
+9163,2026-06-29,Entrada,Tecnologia,Recebimento de cliente,12649.24,Rafael Nunes
+9164,2026-06-30,Saida,Energia,Licença software,8279.81,Rafael Nunes
+9165,2026-07-01,Entrada,Tecnologia,Licença software,3367.18,Amanda Melo
+9166,2026-07-02,Saida,Aluguel,Compra material,601.67,Nicole Martins
+9167,2026-07-03,Entrada,Outros,Folha salarial,3297.96,Nicolas Braga
+9168,2026-07-04,Entrada,Fornecedores,Compra material,6300.21,Natalia Gomes
+9169,2026-07-05,Saida,Folha,Compra material,11418.21,Gabriel Rodrigues
+9170,2026-07-06,Saida,Aluguel,Pagamento fornecedor,2898.86,Nicolas Braga
+9171,2026-07-08,Saida,Tecnologia,Folha salarial,10824.89,Gisele Moraes
+9172,2026-07-09,Entrada,Impostos,Recebimento de cliente,13017.31,Larissa Neves
+9173,2026-07-10,Saida,Fornecedores,Conta de energia,6863.81,Igor Mendes
+9174,2026-07-11,Saida,Aluguel,Pagamento imposto,12339.34,Leonardo Vieira
+9175,2026-07-12,Saida,Folha,Pagamento imposto,8364.39,Lucas Carvalho
+9176,2026-07-13,Saida,Outros,Recebimento de cliente,9592.65,Helena Ferreira
+9177,2026-07-14,Entrada,Fornecedores,Compra material,7941.55,Leticia Cardoso
+9178,2026-07-15,Entrada,Folha,Licença software,7001.27,Carlos Eduardo
+9179,2026-07-16,Saida,Energia,Pagamento fornecedor,3596.34,Elaine Moura
+9180,2026-07-17,Entrada,Energia,Compra material,4617.59,Samuel Rocha
+9181,2026-07-19,Entrada,Folha,Pagamento imposto,4420.55,Helena Ferreira
+9182,2026-07-20,Saida,Aluguel,Pagamento aluguel,8493.01,Debora Martins
+9183,2026-07-21,Saida,Fornecedores,Licença software,1887.31,Beatriz Martins
+9184,2026-07-22,Saida,Aluguel,Pagamento imposto,13760.2,Yasmin Alves
+9185,2026-07-23,Saida,Recebimentos,Pagamento aluguel,10837.76,Daniel Almeida
+9186,2026-07-24,Saida,Tecnologia,Compra material,6081.54,Thiago Rezende
+9187,2026-07-25,Entrada,Recebimentos,Recebimento de cliente,2463.5,Camila Oliveira Santos
+9188,2026-07-26,Entrada,Energia,Recebimento de cliente,13241.68,Isabela Ramos
+9189,2026-07-27,Entrada,Outros,Licença software,12374.29,Valeria Campos
+9190,2026-07-28,Entrada,Vendas,Pagamento imposto,10853.65,Isabela Ramos
+9191,2026-07-30,Saida,Tecnologia,Folha salarial,4146.05,Marcelo Pinto
+9192,2026-07-31,Entrada,Energia,Pagamento aluguel,6096.45,Marcelo Pinto
+9193,2026-08-01,Entrada,Aluguel,Pagamento fornecedor,1630.95,Henrique Dias
+9194,2026-08-02,Entrada,Aluguel,Pagamento imposto,2916.69,Natalia Gomes
+9195,2026-08-03,Entrada,Aluguel,Pagamento fornecedor,11766.95,Patricia Teixeira
+9196,2026-08-04,Entrada,Outros,Pagamento imposto,10754.08,Wesley Martins
+9197,2026-08-05,Entrada,Recebimentos,Folha salarial,8942.94,Carlos Eduardo
+9198,2026-08-06,Entrada,Vendas,Folha salarial,13446.33,Caio Ribeiro
+9199,2026-08-07,Entrada,Aluguel,Licença software,8790.67,Fabio Correia
+9200,2026-08-08,Entrada,Tecnologia,Licença software,7057.82,Daniel Almeida
+9201,2026-08-10,Saida,Fornecedores,Folha salarial,5171.52,Fabio Correia
+9202,2026-08-11,Entrada,Vendas,Conta de energia,14112.68,Thiago Rezende
+9203,2026-08-12,Entrada,Outros,Folha salarial,1332.46,Igor Mendes
+9204,2026-08-13,Saida,Vendas,Recebimento de cliente,13970.22,Raquel Mendes
+9205,2026-08-14,Entrada,Fornecedores,Recebimento de cliente,12418.05,Eduardo Martins
+9206,2026-08-15,Saida,Tecnologia,Conta de energia,2035.96,Samuel Rocha
+9207,2026-08-16,Saida,Fornecedores,Compra material,8518.27,Leonardo Vieira
+9208,2026-08-17,Entrada,Folha,Pagamento aluguel,13011.56,Vinicius Castro
+9209,2026-08-18,Saida,Tecnologia,Compra material,8619.96,Jonas Farias
+9210,2026-08-19,Entrada,Vendas,Pagamento fornecedor,13617.28,Lucas Carvalho
+9211,2026-08-21,Saida,Aluguel,Compra material,14150.46,Patricia Teixeira
+9212,2026-08-22,Entrada,Vendas,Pagamento imposto,6393.53,Leonardo Vieira
+9213,2026-08-23,Saida,Vendas,Compra material,5721.97,Henrique Dias
+9214,2026-08-24,Entrada,Tecnologia,Pagamento imposto,14051.19,Beatriz Martins
+9215,2026-08-25,Saida,Folha,Conta de energia,10159.59,Valeria Campos
+9216,2026-08-26,Saida,Vendas,Recebimento de cliente,1828.74,Renata Moreira
+9217,2026-08-27,Entrada,Energia,Licença software,730.15,Yasmin Alves
+9218,2026-08-28,Entrada,Impostos,Pagamento imposto,8512.97,Fabio Correia
+9219,2026-08-29,Saida,Impostos,Recebimento de cliente,13959.55,Caio Ribeiro
+9220,2026-08-31,Saida,Vendas,Pagamento aluguel,12679.31,Gabriel Rodrigues

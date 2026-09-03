@@ -1,0 +1,91 @@
+﻿id_atividade,data,responsavel,atividade,prioridade,status,tempo_estimado_min
+15001,2026-07-01,Leonardo Vieira,Gerar relatório,Alta,Concluida,90
+15002,2026-07-01,Rodrigo Tavares,Organizar arquivos,Alta,Pendente,30
+15003,2026-07-02,Helena Ferreira,Atualizar cadastro,Alta,Concluida,60
+15004,2026-07-03,Raquel Mendes,Gerar relatório,Media,Concluida,45
+15005,2026-07-03,Helena Ferreira,Conferir documentos,Baixa,Pendente,30
+15006,2026-07-04,Taina Lopes,Gerar relatório,Baixa,Pendente,90
+15007,2026-07-05,Fernanda Souza,Organizar arquivos,Alta,Concluida,15
+15008,2026-07-05,Otavio Lima,Lançar informações no sistema,Baixa,Em andamento,45
+15009,2026-07-06,Leonardo Vieira,Organizar arquivos,Media,Concluida,120
+15010,2026-07-07,Monica Duarte,Atender solicitação interna,Media,Concluida,30
+15011,2026-07-07,Juliana Barbosa,Gerar relatório,Media,Concluida,120
+15012,2026-07-08,Camila Oliveira Santos,Conferir pagamentos,Alta,Em andamento,30
+15013,2026-07-09,Yasmin Alves,Atualizar cadastro,Media,Concluida,30
+15014,2026-07-09,Mariana Ribeiro,Atualizar cadastro,Media,Concluida,90
+15015,2026-07-10,Ingrid Souza,Gerar relatório,Baixa,Em andamento,90
+15016,2026-07-11,Yasmin Alves,Atualizar cadastro,Media,Pendente,90
+15017,2026-07-11,Karen Freitas,Conferir pagamentos,Baixa,Pendente,60
+15018,2026-07-12,Isabela Ramos,Organizar arquivos,Media,Concluida,30
+15019,2026-07-13,Eduardo Martins,Atualizar cadastro,Alta,Concluida,45
+15020,2026-07-14,Matheus Pires,Gerar relatório,Alta,Em andamento,120
+15021,2026-07-14,Elaine Moura,Atualizar planilha,Baixa,Concluida,90
+15022,2026-07-15,Valeria Campos,Atualizar planilha,Media,Em andamento,90
+15023,2026-07-16,Karen Freitas,Conferir documentos,Alta,Concluida,120
+15024,2026-07-16,Aline Pereira,Atender solicitação interna,Baixa,Em andamento,120
+15025,2026-07-17,Vitor Hugo,Atualizar cadastro,Baixa,Concluida,30
+15026,2026-07-18,Vinicius Castro,Atender solicitação interna,Baixa,Concluida,90
+15027,2026-07-18,Sandra Batista,Organizar arquivos,Media,Concluida,120
+15028,2026-07-19,Beatriz Martins,Gerar relatório,Baixa,Em andamento,60
+15029,2026-07-20,Daniel Almeida,Atualizar cadastro,Alta,Em andamento,60
+15030,2026-07-20,Natalia Gomes,Lançar informações no sistema,Media,Concluida,90
+15031,2026-07-21,Debora Martins,Conferir pagamentos,Media,Em andamento,120
+15032,2026-07-22,William Araujo,Atualizar cadastro,Baixa,Em andamento,30
+15033,2026-07-22,Jonas Farias,Atualizar cadastro,Media,Pendente,30
+15034,2026-07-23,Ingrid Souza,Atender solicitação interna,Media,Concluida,30
+15035,2026-07-24,Vinicius Castro,Atender solicitação interna,Media,Concluida,15
+15036,2026-07-24,Matheus Pires,Atualizar planilha,Media,Concluida,90
+15037,2026-07-25,Natalia Gomes,Conferir pagamentos,Media,Em andamento,30
+15038,2026-07-26,Renata Moreira,Gerar relatório,Alta,Em andamento,60
+15039,2026-07-27,Paulo Cesar,Atualizar cadastro,Alta,Concluida,120
+15040,2026-07-27,Nicolas Braga,Atualizar planilha,Media,Concluida,45
+15041,2026-07-28,Leticia Cardoso,Atender solicitação interna,Baixa,Em andamento,45
+15042,2026-07-29,Ana Paula Silva,Conferir documentos,Baixa,Concluida,30
+15043,2026-07-29,Patricia Teixeira,Conferir pagamentos,Baixa,Em andamento,45
+15044,2026-07-30,Natalia Gomes,Atualizar planilha,Media,Concluida,45
+15045,2026-07-31,Renata Moreira,Atualizar planilha,Media,Pendente,15
+15046,2026-07-31,Diego Fernandes,Organizar arquivos,Media,Concluida,60
+15047,2026-08-01,Vitor Hugo,Atualizar planilha,Alta,Concluida,60
+15048,2026-08-02,Helena Ferreira,Organizar arquivos,Alta,Concluida,15
+15049,2026-08-02,Jonas Farias,Atualizar cadastro,Alta,Pendente,15
+15050,2026-08-03,Giovana Lopes,Atualizar cadastro,Media,Concluida,45
+15051,2026-08-04,Debora Martins,Atender solicitação interna,Media,Concluida,90
+15052,2026-08-04,Carlos Eduardo,Conferir documentos,Baixa,Pendente,120
+15053,2026-08-05,Felipe Cunha,Lançar informações no sistema,Baixa,Concluida,120
+15054,2026-08-06,Helena Ferreira,Lançar informações no sistema,Baixa,Concluida,45
+15055,2026-08-07,Helena Ferreira,Lançar informações no sistema,Media,Concluida,120
+15056,2026-08-07,Yasmin Alves,Atender solicitação interna,Media,Concluida,15
+15057,2026-08-08,Fabio Correia,Organizar arquivos,Alta,Pendente,60
+15058,2026-08-09,Gisele Moraes,Atender solicitação interna,Baixa,Concluida,120
+15059,2026-08-09,Yasmin Alves,Conferir pagamentos,Media,Pendente,45
+15060,2026-08-10,Natalia Gomes,Conferir pagamentos,Media,Concluida,90
+15061,2026-08-11,Sandra Batista,Conferir documentos,Baixa,Concluida,45
+15062,2026-08-11,Priscila Monteiro,Conferir pagamentos,Media,Concluida,30
+15063,2026-08-12,Ingrid Souza,Lançar informações no sistema,Baixa,Pendente,45
+15064,2026-08-13,Henrique Dias,Lançar informações no sistema,Media,Em andamento,15
+15065,2026-08-13,Elaine Moura,Atender solicitação interna,Media,Concluida,60
+15066,2026-08-14,Rafael Nunes,Atualizar planilha,Baixa,Concluida,60
+15067,2026-08-15,Raquel Mendes,Conferir pagamentos,Baixa,Concluida,120
+15068,2026-08-15,Bruno Henrique Costa,Atender solicitação interna,Media,Concluida,15
+15069,2026-08-16,Paulo Cesar,Atualizar cadastro,Alta,Concluida,30
+15070,2026-08-17,Sergio Alves,Atualizar cadastro,Media,Em andamento,15
+15071,2026-08-17,Renata Moreira,Atualizar planilha,Media,Em andamento,45
+15072,2026-08-18,Joao Pedro,Atualizar planilha,Media,Pendente,15
+15073,2026-08-19,Sandra Batista,Atualizar planilha,Alta,Em andamento,15
+15074,2026-08-20,Natalia Gomes,Atender solicitação interna,Alta,Concluida,30
+15075,2026-08-20,Leonardo Vieira,Atualizar cadastro,Media,Concluida,45
+15076,2026-08-21,Jonas Farias,Lançar informações no sistema,Media,Concluida,90
+15077,2026-08-22,Isabela Ramos,Atualizar planilha,Alta,Pendente,90
+15078,2026-08-22,Felipe Cunha,Conferir documentos,Media,Em andamento,60
+15079,2026-08-23,Joao Pedro,Organizar arquivos,Media,Pendente,120
+15080,2026-08-24,Sergio Alves,Atender solicitação interna,Baixa,Pendente,15
+15081,2026-08-24,Natalia Gomes,Atualizar planilha,Alta,Concluida,60
+15082,2026-08-25,Amanda Melo,Organizar arquivos,Alta,Pendente,30
+15083,2026-08-26,Aline Pereira,Gerar relatório,Baixa,Concluida,90
+15084,2026-08-26,Joao Pedro,Atualizar planilha,Media,Pendente,15
+15085,2026-08-27,Aline Pereira,Atualizar cadastro,Media,Concluida,30
+15086,2026-08-28,Hugo Barros,Conferir pagamentos,Baixa,Concluida,120
+15087,2026-08-28,Raquel Mendes,Atualizar planilha,Alta,Em andamento,30
+15088,2026-08-29,Renata Moreira,Atender solicitação interna,Baixa,Concluida,15
+15089,2026-08-30,Thiago Rezende,Conferir pagamentos,Baixa,Concluida,120
+15090,2026-08-31,Tatiane Rocha,Gerar relatório,Media,Concluida,30

@@ -1,0 +1,141 @@
+﻿id_recebimento,cliente,data_emissao,data_vencimento,descricao,valor,status,forma_pagamento
+7001,Cliente Nova Era,2026-01-05,2026-02-04,Serviço recorrente,2023.18,Recebido,Transferência
+7002,Cliente Delta,2026-01-06,2026-02-05,Consultoria,14775.6,Pendente,Boleto
+7003,Cliente Nova Era,2026-01-08,2026-02-07,Prestação de serviço,7036.42,Recebido,Transferência
+7004,Comercial Oeste,2026-01-10,2026-01-17,Prestação de serviço,9713.74,Em atraso,Boleto
+7005,Grupo Prudente,2026-01-11,2026-01-18,Consultoria,2465.33,Pendente,Boleto
+7006,Comercial Beta,2026-01-13,2026-02-12,Prestação de serviço,545.22,Recebido,PIX
+7007,Cliente Delta,2026-01-15,2026-03-01,Serviço recorrente,11664.74,Em atraso,Cartão
+7008,Comercial Oeste,2026-01-16,2026-03-02,Contrato mensal,9515.57,Pendente,Cartão
+7009,Comercial Oeste,2026-01-18,2026-02-02,Serviço recorrente,10886.92,Pendente,Transferência
+7010,Comercial Beta,2026-01-20,2026-02-10,Serviço recorrente,14390.52,Recebido,Cartão
+7011,Grupo Prudente,2026-01-21,2026-03-07,Prestação de serviço,11815.6,Recebido,Boleto
+7012,Empresa Horizonte,2026-01-23,2026-01-30,Contrato mensal,3558.54,Recebido,Boleto
+7013,Empresa Horizonte,2026-01-25,2026-03-11,Prestação de serviço,6813.52,Recebido,PIX
+7014,Comercial Oeste,2026-01-26,2026-02-10,Venda de produtos,16353.09,Recebido,PIX
+7015,Empresa Horizonte,2026-01-28,2026-02-12,Prestação de serviço,13974.03,Pendente,Cartão
+7016,Empresa Alpha,2026-01-30,2026-02-20,Prestação de serviço,10241.15,Recebido,Transferência
+7017,Comercial Oeste,2026-01-31,2026-03-17,Prestação de serviço,4973.79,Pendente,Cartão
+7018,Comercial Oeste,2026-02-02,2026-02-09,Contrato mensal,5786.06,Em atraso,Cartão
+7019,Cliente Delta,2026-02-04,2026-02-11,Prestação de serviço,13309.27,Em atraso,Cartão
+7020,Empresa Horizonte,2026-02-05,2026-03-07,Contrato mensal,15395.55,Recebido,Cartão
+7021,Grupo Prudente,2026-02-07,2026-02-14,Consultoria,12249.93,Pendente,Boleto
+7022,Comercial Oeste,2026-02-09,2026-03-02,Venda de produtos,14666.77,Recebido,Transferência
+7023,Cliente Nova Era,2026-02-10,2026-03-03,Contrato mensal,13916.48,Recebido,Boleto
+7024,Grupo Prudente,2026-02-12,2026-02-19,Consultoria,3119.82,Pendente,Transferência
+7025,Empresa Alpha,2026-02-14,2026-02-21,Contrato mensal,7919.03,Recebido,PIX
+7026,Cliente Delta,2026-02-15,2026-03-17,Contrato mensal,3177.22,Recebido,Cartão
+7027,Comercial Beta,2026-02-17,2026-02-24,Venda de produtos,4616.62,Recebido,Boleto
+7028,Grupo Prudente,2026-02-19,2026-03-21,Serviço recorrente,15712.04,Recebido,Transferência
+7029,Comercial Oeste,2026-02-20,2026-03-22,Serviço recorrente,8775.61,Recebido,PIX
+7030,Empresa Alpha,2026-02-22,2026-03-01,Contrato mensal,9868.77,Recebido,PIX
+7031,Grupo Gamma,2026-02-24,2026-03-11,Prestação de serviço,3622.8,Pendente,Cartão
+7032,Empresa Alpha,2026-02-25,2026-03-12,Consultoria,5964.76,Pendente,Transferência
+7033,Empresa Alpha,2026-02-27,2026-03-29,Prestação de serviço,4529.31,Recebido,Boleto
+7034,Cliente Delta,2026-03-01,2026-03-08,Prestação de serviço,4108.26,Recebido,Cartão
+7035,Comercial Beta,2026-03-02,2026-03-17,Contrato mensal,11664.31,Recebido,Boleto
+7036,Grupo Gamma,2026-03-04,2026-03-11,Contrato mensal,4995.47,Recebido,PIX
+7037,Empresa Horizonte,2026-03-06,2026-03-13,Contrato mensal,11560.27,Pendente,Boleto
+7038,Empresa Horizonte,2026-03-07,2026-03-14,Contrato mensal,1522.96,Recebido,Boleto
+7039,Grupo Prudente,2026-03-09,2026-04-23,Serviço recorrente,2981.05,Recebido,Cartão
+7040,Empresa Alpha,2026-03-11,2026-03-18,Contrato mensal,5304.45,Pendente,Boleto
+7041,Cliente Nova Era,2026-03-12,2026-04-26,Serviço recorrente,10948.32,Pendente,Cartão
+7042,Cliente Delta,2026-03-14,2026-04-13,Serviço recorrente,12327.22,Pendente,PIX
+7043,Cliente Nova Era,2026-03-16,2026-03-31,Contrato mensal,8247.55,Recebido,Cartão
+7044,Cliente Delta,2026-03-17,2026-04-01,Venda de produtos,8301.34,Recebido,Cartão
+7045,Empresa Horizonte,2026-03-19,2026-04-03,Consultoria,13179.04,Recebido,Transferência
+7046,Grupo Prudente,2026-03-21,2026-04-05,Prestação de serviço,776.87,Recebido,Boleto
+7047,Grupo Prudente,2026-03-22,2026-04-06,Serviço recorrente,6469.08,Pendente,PIX
+7048,Grupo Prudente,2026-03-24,2026-04-08,Consultoria,14827.37,Pendente,Cartão
+7049,Grupo Gamma,2026-03-26,2026-04-10,Venda de produtos,11056.34,Pendente,PIX
+7050,Comercial Beta,2026-03-27,2026-04-26,Prestação de serviço,6401.47,Pendente,Transferência
+7051,Grupo Gamma,2026-03-29,2026-04-05,Prestação de serviço,16346.68,Recebido,Boleto
+7052,Comercial Oeste,2026-03-31,2026-04-21,Serviço recorrente,14020.9,Pendente,Cartão
+7053,Comercial Oeste,2026-04-01,2026-05-16,Contrato mensal,5135.67,Recebido,Boleto
+7054,Cliente Nova Era,2026-04-03,2026-04-24,Venda de produtos,11792.57,Recebido,Transferência
+7055,Comercial Beta,2026-04-05,2026-04-26,Serviço recorrente,10925.64,Recebido,Transferência
+7056,Empresa Horizonte,2026-04-06,2026-04-13,Venda de produtos,7520.79,Recebido,PIX
+7057,Comercial Beta,2026-04-08,2026-04-15,Contrato mensal,6921.73,Recebido,Cartão
+7058,Cliente Delta,2026-04-10,2026-04-17,Contrato mensal,6512.31,Em atraso,PIX
+7059,Comercial Oeste,2026-04-11,2026-04-26,Serviço recorrente,11300.23,Recebido,Transferência
+7060,Empresa Alpha,2026-04-13,2026-05-13,Contrato mensal,8242.17,Recebido,Boleto
+7061,Empresa Alpha,2026-04-15,2026-04-30,Consultoria,15057.6,Recebido,PIX
+7062,Empresa Horizonte,2026-04-16,2026-05-16,Prestação de serviço,12218.05,Pendente,PIX
+7063,Cliente Delta,2026-04-18,2026-05-18,Serviço recorrente,1723.8,Pendente,Boleto
+7064,Cliente Nova Era,2026-04-20,2026-05-11,Venda de produtos,11702.94,Pendente,PIX
+7065,Grupo Gamma,2026-04-21,2026-05-12,Consultoria,5245.08,Recebido,Boleto
+7066,Cliente Delta,2026-04-23,2026-05-23,Serviço recorrente,10874.21,Pendente,Cartão
+7067,Empresa Alpha,2026-04-25,2026-05-25,Contrato mensal,12402.31,Recebido,Boleto
+7068,Empresa Alpha,2026-04-26,2026-05-11,Contrato mensal,4539.51,Pendente,Cartão
+7069,Cliente Nova Era,2026-04-28,2026-05-13,Contrato mensal,8495.03,Pendente,Boleto
+7070,Comercial Oeste,2026-04-30,2026-05-21,Contrato mensal,3830.69,Recebido,Transferência
+7071,Cliente Delta,2026-05-01,2026-05-08,Venda de produtos,1415.93,Recebido,Transferência
+7072,Cliente Delta,2026-05-03,2026-06-02,Consultoria,7123.34,Recebido,Cartão
+7073,Empresa Alpha,2026-05-05,2026-05-20,Prestação de serviço,6851.52,Recebido,Cartão
+7074,Grupo Gamma,2026-05-06,2026-05-27,Venda de produtos,17920.91,Recebido,Transferência
+7075,Empresa Horizonte,2026-05-08,2026-05-23,Venda de produtos,8311.17,Pendente,Cartão
+7076,Grupo Prudente,2026-05-10,2026-06-09,Prestação de serviço,6337.47,Recebido,Boleto
+7077,Empresa Horizonte,2026-05-11,2026-06-10,Prestação de serviço,10658.31,Recebido,Boleto
+7078,Cliente Delta,2026-05-13,2026-06-27,Contrato mensal,2053.43,Recebido,Transferência
+7079,Empresa Horizonte,2026-05-15,2026-05-22,Venda de produtos,17329.15,Recebido,PIX
+7080,Empresa Alpha,2026-05-16,2026-06-30,Serviço recorrente,11611.8,Em atraso,Boleto
+7081,Empresa Alpha,2026-05-18,2026-06-08,Prestação de serviço,13709.66,Recebido,Cartão
+7082,Cliente Nova Era,2026-05-20,2026-06-04,Prestação de serviço,3483.36,Pendente,PIX
+7083,Cliente Delta,2026-05-21,2026-06-11,Consultoria,7665.86,Pendente,PIX
+7084,Cliente Nova Era,2026-05-23,2026-06-22,Serviço recorrente,7897.06,Pendente,Boleto
+7085,Cliente Delta,2026-05-25,2026-07-09,Serviço recorrente,14881.61,Pendente,Boleto
+7086,Grupo Prudente,2026-05-26,2026-07-10,Prestação de serviço,521.64,Recebido,PIX
+7087,Grupo Prudente,2026-05-28,2026-07-12,Contrato mensal,5764.93,Em atraso,PIX
+7088,Comercial Oeste,2026-05-30,2026-06-20,Consultoria,17671.64,Recebido,Transferência
+7089,Cliente Delta,2026-05-31,2026-06-30,Serviço recorrente,8810.51,Recebido,Cartão
+7090,Grupo Gamma,2026-06-02,2026-06-17,Prestação de serviço,7194.21,Pendente,Transferência
+7091,Empresa Horizonte,2026-06-04,2026-06-19,Serviço recorrente,2597.01,Em atraso,Boleto
+7092,Cliente Delta,2026-06-05,2026-06-26,Consultoria,17547.88,Pendente,Transferência
+7093,Comercial Beta,2026-06-07,2026-07-22,Consultoria,850.46,Recebido,Transferência
+7094,Comercial Oeste,2026-06-09,2026-06-16,Venda de produtos,13400.65,Recebido,Transferência
+7095,Comercial Beta,2026-06-10,2026-07-01,Prestação de serviço,13950.5,Em atraso,Transferência
+7096,Empresa Alpha,2026-06-12,2026-07-03,Consultoria,4763.99,Recebido,Cartão
+7097,Grupo Prudente,2026-06-14,2026-07-14,Venda de produtos,12252.27,Pendente,Cartão
+7098,Empresa Horizonte,2026-06-15,2026-06-30,Venda de produtos,2126.26,Pendente,PIX
+7099,Cliente Delta,2026-06-17,2026-07-08,Serviço recorrente,4998.33,Recebido,Boleto
+7100,Comercial Beta,2026-06-19,2026-07-10,Serviço recorrente,14288.28,Recebido,Transferência
+7101,Empresa Horizonte,2026-06-20,2026-08-04,Venda de produtos,15632.01,Recebido,PIX
+7102,Empresa Alpha,2026-06-22,2026-08-06,Serviço recorrente,11148.51,Recebido,PIX
+7103,Grupo Prudente,2026-06-24,2026-07-01,Consultoria,9369.67,Em atraso,PIX
+7104,Grupo Gamma,2026-06-25,2026-07-25,Contrato mensal,3287.82,Recebido,Cartão
+7105,Comercial Oeste,2026-06-27,2026-07-04,Consultoria,1604.41,Em atraso,Transferência
+7106,Empresa Horizonte,2026-06-29,2026-08-13,Venda de produtos,2558.86,Recebido,Transferência
+7107,Empresa Horizonte,2026-06-30,2026-07-15,Venda de produtos,4478.75,Em atraso,Boleto
+7108,Grupo Gamma,2026-07-02,2026-08-16,Consultoria,6479.3,Recebido,Transferência
+7109,Empresa Horizonte,2026-07-04,2026-08-03,Serviço recorrente,7165.92,Recebido,Transferência
+7110,Empresa Alpha,2026-07-05,2026-08-19,Serviço recorrente,6560.63,Recebido,PIX
+7111,Empresa Alpha,2026-07-07,2026-08-06,Venda de produtos,4683.47,Pendente,Boleto
+7112,Grupo Gamma,2026-07-09,2026-08-08,Prestação de serviço,9420.17,Pendente,Transferência
+7113,Comercial Oeste,2026-07-10,2026-08-09,Serviço recorrente,14942.51,Pendente,Cartão
+7114,Cliente Delta,2026-07-12,2026-08-11,Consultoria,5394.81,Recebido,Transferência
+7115,Comercial Beta,2026-07-14,2026-08-13,Serviço recorrente,16991.77,Recebido,PIX
+7116,Cliente Delta,2026-07-15,2026-07-30,Consultoria,15783.39,Recebido,Cartão
+7117,Empresa Horizonte,2026-07-17,2026-07-24,Venda de produtos,3330.87,Recebido,PIX
+7118,Comercial Beta,2026-07-19,2026-08-09,Serviço recorrente,14259.83,Recebido,Transferência
+7119,Cliente Nova Era,2026-07-20,2026-07-27,Consultoria,10555.28,Em atraso,Cartão
+7120,Grupo Gamma,2026-07-22,2026-08-21,Venda de produtos,10415.07,Em atraso,Boleto
+7121,Grupo Gamma,2026-07-24,2026-08-08,Prestação de serviço,7343.25,Em atraso,Boleto
+7122,Comercial Oeste,2026-07-25,2026-09-08,Consultoria,9270.18,Pendente,Cartão
+7123,Comercial Beta,2026-07-27,2026-08-11,Prestação de serviço,7450.63,Recebido,Cartão
+7124,Empresa Alpha,2026-07-29,2026-08-28,Prestação de serviço,9945.32,Recebido,PIX
+7125,Comercial Beta,2026-07-30,2026-08-14,Contrato mensal,11489.13,Recebido,Cartão
+7126,Empresa Horizonte,2026-08-01,2026-08-16,Serviço recorrente,12300.32,Pendente,PIX
+7127,Empresa Alpha,2026-08-03,2026-09-02,Consultoria,9818.42,Recebido,Transferência
+7128,Grupo Prudente,2026-08-04,2026-08-19,Prestação de serviço,13124.89,Recebido,PIX
+7129,Grupo Prudente,2026-08-06,2026-08-27,Contrato mensal,2972.37,Recebido,Cartão
+7130,Cliente Nova Era,2026-08-08,2026-08-29,Venda de produtos,4209.69,Recebido,Cartão
+7131,Grupo Prudente,2026-08-09,2026-08-24,Consultoria,14827.86,Em atraso,Transferência
+7132,Grupo Gamma,2026-08-11,2026-09-25,Prestação de serviço,6144.24,Pendente,Cartão
+7133,Comercial Beta,2026-08-13,2026-09-12,Serviço recorrente,900.64,Recebido,Cartão
+7134,Grupo Prudente,2026-08-14,2026-09-04,Contrato mensal,3191.35,Em atraso,Boleto
+7135,Cliente Delta,2026-08-16,2026-09-30,Prestação de serviço,4413.25,Pendente,Boleto
+7136,Comercial Oeste,2026-08-18,2026-09-02,Serviço recorrente,17253.15,Recebido,Transferência
+7137,Cliente Delta,2026-08-19,2026-10-03,Prestação de serviço,10528.23,Recebido,PIX
+7138,Grupo Prudente,2026-08-21,2026-08-28,Consultoria,16822.79,Recebido,Boleto
+7139,Cliente Nova Era,2026-08-23,2026-09-13,Consultoria,10565.36,Recebido,PIX
+7140,Comercial Oeste,2026-08-25,2026-09-09,Consultoria,8888.7,Em atraso,Cartão

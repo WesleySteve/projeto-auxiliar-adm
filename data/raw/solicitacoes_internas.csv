@@ -1,0 +1,101 @@
+﻿id_solicitacao,data_solicitacao,solicitante,departamento,tipo_solicitacao,prioridade,status,prazo_dias
+13001,2026-01-05,Natalia Gomes,TI,Compra,Alta,Cancelada,3
+13002,2026-01-07,Daniel Almeida,Comercial,RH,Baixa,Concluida,10
+13003,2026-01-09,Beatriz Martins,Administrativo,Manutenção,Baixa,Concluida,7
+13004,2026-01-12,Gabriel Rodrigues,TI,Compra,Alta,Concluida,10
+13005,2026-01-14,Amanda Melo,Comercial,Compra,Alta,Concluida,5
+13006,2026-01-17,Paulo Cesar,Financeiro,Financeiro,Alta,Em andamento,2
+13007,2026-01-19,Diego Fernandes,Comercial,Compra,Alta,Concluida,5
+13008,2026-01-21,Daniel Almeida,Operações,RH,Media,Concluida,1
+13009,2026-01-24,Henrique Dias,Compras,Compra,Media,Concluida,5
+13010,2026-01-26,Patricia Teixeira,Financeiro,Documento,Alta,Em andamento,7
+13011,2026-01-29,Ana Paula Silva,Operações,Manutenção,Media,Concluida,7
+13012,2026-01-31,Raquel Mendes,Operações,Documento,Media,Em andamento,5
+13013,2026-02-02,Camila Oliveira Santos,Operações,RH,Baixa,Cancelada,7
+13014,2026-02-05,Otavio Lima,Administrativo,Compra,Media,Cancelada,2
+13015,2026-02-07,Rodrigo Tavares,Operações,Suporte administrativo,Alta,Concluida,10
+13016,2026-02-10,Jonas Farias,Administrativo,RH,Media,Concluida,5
+13017,2026-02-12,Taina Lopes,Operações,Financeiro,Baixa,Concluida,2
+13018,2026-02-14,Ana Paula Silva,Recursos Humanos,Documento,Media,Concluida,10
+13019,2026-02-17,Rodrigo Tavares,Financeiro,Documento,Baixa,Aberta,10
+13020,2026-02-19,Rodrigo Tavares,Recursos Humanos,Acesso ao sistema,Baixa,Concluida,2
+13021,2026-02-22,Aline Pereira,Operações,Compra,Media,Concluida,3
+13022,2026-02-24,Hugo Barros,Financeiro,Financeiro,Alta,Concluida,5
+13023,2026-02-26,Isabela Ramos,Financeiro,Suporte administrativo,Media,Concluida,10
+13024,2026-03-01,Eduardo Martins,TI,Documento,Baixa,Cancelada,10
+13025,2026-03-03,Ingrid Souza,Compras,Documento,Baixa,Aberta,7
+13026,2026-03-06,Juliana Barbosa,Recursos Humanos,Financeiro,Media,Concluida,10
+13027,2026-03-08,Henrique Dias,Compras,RH,Media,Concluida,2
+13028,2026-03-10,Aline Pereira,Financeiro,RH,Alta,Concluida,10
+13029,2026-03-13,Jonas Farias,Administrativo,Compra,Media,Concluida,3
+13030,2026-03-15,Gabriel Rodrigues,Financeiro,Acesso ao sistema,Alta,Em andamento,5
+13031,2026-03-18,Camila Oliveira Santos,Compras,Documento,Media,Aberta,5
+13032,2026-03-20,Debora Martins,Recursos Humanos,Acesso ao sistema,Media,Concluida,10
+13033,2026-03-22,Gisele Moraes,Operações,RH,Media,Concluida,1
+13034,2026-03-25,Vinicius Castro,TI,RH,Urgente,Aberta,1
+13035,2026-03-27,Tatiane Rocha,TI,Manutenção,Media,Concluida,2
+13036,2026-03-30,Monica Duarte,TI,Suporte administrativo,Media,Concluida,1
+13037,2026-04-01,Daniel Almeida,Operações,Compra,Media,Concluida,2
+13038,2026-04-03,Eduardo Martins,TI,Manutenção,Baixa,Concluida,7
+13039,2026-04-06,Ana Paula Silva,Recursos Humanos,Suporte administrativo,Media,Aberta,2
+13040,2026-04-08,Daniel Almeida,Operações,Manutenção,Baixa,Aberta,1
+13041,2026-04-11,Mariana Ribeiro,TI,Manutenção,Media,Concluida,10
+13042,2026-04-13,Wesley Martins,Operações,Compra,Media,Concluida,7
+13043,2026-04-15,Giovana Lopes,Compras,Compra,Media,Concluida,1
+13044,2026-04-18,Samuel Rocha,Recursos Humanos,Financeiro,Alta,Concluida,2
+13045,2026-04-20,William Araujo,Comercial,Acesso ao sistema,Alta,Concluida,3
+13046,2026-04-23,Carlos Eduardo,Administrativo,Acesso ao sistema,Alta,Cancelada,5
+13047,2026-04-25,Elaine Moura,TI,Financeiro,Baixa,Concluida,1
+13048,2026-04-27,Aline Pereira,Administrativo,Financeiro,Baixa,Concluida,2
+13049,2026-04-30,Vitor Hugo,Operações,RH,Media,Concluida,7
+13050,2026-05-02,Matheus Pires,Administrativo,Suporte administrativo,Media,Aberta,1
+13051,2026-05-05,Diego Fernandes,Recursos Humanos,Manutenção,Media,Concluida,1
+13052,2026-05-07,Elaine Moura,Recursos Humanos,Financeiro,Baixa,Em andamento,5
+13053,2026-05-10,Debora Martins,Financeiro,Documento,Media,Concluida,2
+13054,2026-05-12,Raquel Mendes,TI,Acesso ao sistema,Baixa,Concluida,3
+13055,2026-05-14,Felipe Cunha,Financeiro,Financeiro,Alta,Concluida,7
+13056,2026-05-17,Leonardo Vieira,Administrativo,Documento,Baixa,Em andamento,2
+13057,2026-05-19,Raquel Mendes,Comercial,Documento,Media,Aberta,7
+13058,2026-05-22,Leonardo Vieira,Financeiro,Documento,Baixa,Aberta,1
+13059,2026-05-24,Eduardo Martins,Financeiro,RH,Media,Concluida,5
+13060,2026-05-26,Nicolas Braga,Recursos Humanos,RH,Media,Aberta,5
+13061,2026-05-29,Felipe Cunha,Comercial,Documento,Alta,Concluida,10
+13062,2026-05-31,William Araujo,Operações,Suporte administrativo,Alta,Concluida,3
+13063,2026-06-03,Ingrid Souza,Administrativo,RH,Media,Concluida,5
+13064,2026-06-05,William Araujo,Financeiro,Manutenção,Alta,Concluida,1
+13065,2026-06-07,Vitor Hugo,Comercial,Documento,Urgente,Em andamento,3
+13066,2026-06-10,Sandra Batista,TI,Manutenção,Alta,Concluida,2
+13067,2026-06-12,Rafael Nunes,Comercial,Manutenção,Alta,Concluida,5
+13068,2026-06-15,Leticia Cardoso,Administrativo,Documento,Baixa,Em andamento,3
+13069,2026-06-17,Ingrid Souza,Comercial,Acesso ao sistema,Media,Concluida,1
+13070,2026-06-19,Aline Pereira,Comercial,Suporte administrativo,Baixa,Em andamento,10
+13071,2026-06-22,Igor Mendes,Comercial,Documento,Baixa,Concluida,7
+13072,2026-06-24,Fernanda Souza,TI,Documento,Urgente,Cancelada,7
+13073,2026-06-27,Larissa Neves,Financeiro,RH,Media,Aberta,1
+13074,2026-06-29,Debora Martins,Administrativo,Documento,Alta,Concluida,1
+13075,2026-07-01,Monica Duarte,TI,Acesso ao sistema,Alta,Concluida,7
+13076,2026-07-04,Sandra Batista,Comercial,RH,Alta,Cancelada,10
+13077,2026-07-06,Beatriz Martins,Comercial,Compra,Urgente,Concluida,3
+13078,2026-07-09,Valeria Campos,Financeiro,Compra,Baixa,Concluida,7
+13079,2026-07-11,Paulo Cesar,Administrativo,Manutenção,Baixa,Aberta,1
+13080,2026-07-13,Eduardo Martins,Recursos Humanos,Suporte administrativo,Media,Em andamento,5
+13081,2026-07-16,William Araujo,TI,Manutenção,Baixa,Aberta,2
+13082,2026-07-18,Carlos Eduardo,Financeiro,Acesso ao sistema,Baixa,Cancelada,10
+13083,2026-07-21,Renata Moreira,Administrativo,Financeiro,Media,Concluida,10
+13084,2026-07-23,Mariana Ribeiro,TI,Suporte administrativo,Alta,Concluida,5
+13085,2026-07-25,Carlos Eduardo,Comercial,Compra,Media,Concluida,5
+13086,2026-07-28,Rafael Nunes,Administrativo,Manutenção,Media,Aberta,1
+13087,2026-07-30,Camila Oliveira Santos,Administrativo,Compra,Media,Concluida,7
+13088,2026-08-02,Joao Pedro,Operações,Acesso ao sistema,Baixa,Aberta,3
+13089,2026-08-04,Taina Lopes,Administrativo,Acesso ao sistema,Baixa,Em andamento,10
+13090,2026-08-06,Beatriz Martins,Recursos Humanos,Financeiro,Alta,Em andamento,10
+13091,2026-08-09,Igor Mendes,Administrativo,Financeiro,Media,Concluida,5
+13092,2026-08-11,Isabela Ramos,Recursos Humanos,RH,Alta,Em andamento,7
+13093,2026-08-14,Gisele Moraes,Comercial,Suporte administrativo,Baixa,Aberta,10
+13094,2026-08-16,Priscila Monteiro,Recursos Humanos,Acesso ao sistema,Alta,Aberta,3
+13095,2026-08-18,Carlos Eduardo,TI,Manutenção,Media,Aberta,5
+13096,2026-08-21,Natalia Gomes,Comercial,Compra,Media,Cancelada,3
+13097,2026-08-23,Leonardo Vieira,Comercial,Documento,Media,Concluida,7
+13098,2026-08-26,Felipe Cunha,Recursos Humanos,Financeiro,Alta,Cancelada,10
+13099,2026-08-28,Matheus Pires,Financeiro,Documento,Media,Concluida,2
+13100,2026-08-31,Gisele Moraes,Compras,Manutenção,Media,Em andamento,10
