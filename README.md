@@ -10,15 +10,17 @@ O projeto foi estruturado para desenvolver competências encontradas em vagas re
 
 # 1. Preparação do ambiente
 
-- [ ] Criar uma pasta para o projeto
-- [ ] Criar ambiente virtual Python
-- [ ] Instalar pandas, numpy, openpyxl e matplotlib
-- [ ] Criar estrutura de pastas
-- [ ] Criar README.md
-- [ ] Criar pasta `data/raw`
-- [ ] Criar pasta `data/processed`
-- [ ] Criar pasta `notebooks`
-- [ ] Criar pasta `reports`
+- [x] Criar uma pasta para o projeto
+- [x] Criar ambiente virtual Python
+- [x] Instalar pandas, numpy, openpyxl e matplotlib
+- [x] Criar estrutura de pastas
+- [x] Criar README.md
+- [x] Criar pasta `data/raw`
+- [x] Criar pasta `data/processed`
+- [x] Criar pasta `docs`
+- [x] Criar pasta `projeto/python/notebooks/raw`
+- [x] Criar pasta `projeto/python/notebooks/processed`
+- [x] Criar pasta `projeto/excel`
 
 ---
 
