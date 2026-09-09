@@ -134,7 +134,7 @@ Arquivos disponíveis
 - [x] Visualizar as primeiras linhas
 - [x] Visualizar as últimas linhas
 - [x] Identificar os tipos de dados
-- [ ] Identificar valores nulos
+- [x] Identificar valores nulos
 - [ ] Identificar duplicidades
 - [ ] Identificar valores inconsistentes
 - [ ] Identificar possíveis chaves/IDs
