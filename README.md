@@ -72,9 +72,9 @@ Arquivos disponíveis
 - [x] Identificar os tipos de dados
 - [x] Identificar valores nulos
 - [x] Identificar duplicidades
-- [ ] Identificar valores inconsistentes
-- [ ] Identificar possíveis chaves/IDs
-- [ ] Documentar o significado de cada coluna
+- [x] Identificar valores inconsistentes
+- [x] Identificar possíveis chaves/IDs
+- [x] Documentar o significado de cada coluna
   
 - `contas_receber.csv`
   
