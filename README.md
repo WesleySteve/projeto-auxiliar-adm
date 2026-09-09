@@ -32,7 +32,7 @@ Arquivos disponíveis
 
 - ## Tarefas
 
-- [ ] Importar todos os CSVs com pandas
+- [x] Importar dados colaboradores CSVs com pandas
 - [ ] Identificar quantidade de linhas
 - [ ] Identificar quantidade de colunas
 - [ ] Visualizar as primeiras linhas
