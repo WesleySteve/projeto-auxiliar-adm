@@ -55,7 +55,7 @@ Arquivos disponíveis
 - [x] Visualizar as últimas linhas
 - [x] Identificar os tipos de dados
 - [x] Identificar valores nulos
-- [ ] Identificar duplicidades
+- [x] Identificar duplicidades
 - [ ] Identificar valores inconsistentes
 - [ ] Identificar possíveis chaves/IDs
 - [ ] Documentar o significado de cada coluna
