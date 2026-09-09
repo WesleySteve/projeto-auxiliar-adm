@@ -172,6 +172,7 @@ Arquivos disponíveis
 - [x] Identificar possíveis chaves/IDs
 - [x] Documentar o significado de cada coluna
   
+  
 ---
 
 # 3. Limpeza e tratamento dos dados
