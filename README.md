@@ -26,18 +26,138 @@ O projeto foi estruturado para desenvolver competências encontradas em vagas re
 
 # 2. Conhecendo os dados
 
-Arquivos disponíveis:
+Arquivos disponíveis
 
 - `colaboradores.csv`
-- `fornecedores.csv`
-- `contas_pagar.csv`
-- `contas_receber.csv`
-- `movimentacoes_caixa.csv`
-- `controle_documentos.csv`
-- `solicitacoes_internas.csv`
-- `atividades_administrativas.csv`
-- `contas_pagar_sujo.csv`
 
+- ## Tarefas
+
+- [ ] Importar todos os CSVs com pandas
+- [ ] Identificar quantidade de linhas
+- [ ] Identificar quantidade de colunas
+- [ ] Visualizar as primeiras linhas
+- [ ] Visualizar as últimas linhas
+- [ ] Identificar os tipos de dados
+- [ ] Identificar valores nulos
+- [ ] Identificar duplicidades
+- [ ] Identificar valores inconsistentes
+- [ ] Identificar possíveis chaves/IDs
+- [ ] Documentar o significado de cada coluna
+  
+ `fornecedores.csv`
+  
+- ## Tarefas
+
+- [ ] Importar todos os CSVs com pandas
+- [ ] Identificar quantidade de linhas
+- [ ] Identificar quantidade de colunas
+- [ ] Visualizar as primeiras linhas
+- [ ] Visualizar as últimas linhas
+- [ ] Identificar os tipos de dados
+- [ ] Identificar valores nulos
+- [ ] Identificar duplicidades
+- [ ] Identificar valores inconsistentes
+- [ ] Identificar possíveis chaves/IDs
+- [ ] Documentar o significado de cada coluna
+  
+- `contas_pagar.csv`
+  
+- ## Tarefas
+
+- [ ] Importar todos os CSVs com pandas
+- [ ] Identificar quantidade de linhas
+- [ ] Identificar quantidade de colunas
+- [ ] Visualizar as primeiras linhas
+- [ ] Visualizar as últimas linhas
+- [ ] Identificar os tipos de dados
+- [ ] Identificar valores nulos
+- [ ] Identificar duplicidades
+- [ ] Identificar valores inconsistentes
+- [ ] Identificar possíveis chaves/IDs
+- [ ] Documentar o significado de cada coluna
+  
+- `contas_receber.csv`
+  
+- ## Tarefas
+
+- [ ] Importar todos os CSVs com pandas
+- [ ] Identificar quantidade de linhas
+- [ ] Identificar quantidade de colunas
+- [ ] Visualizar as primeiras linhas
+- [ ] Visualizar as últimas linhas
+- [ ] Identificar os tipos de dados
+- [ ] Identificar valores nulos
+- [ ] Identificar duplicidades
+- [ ] Identificar valores inconsistentes
+- [ ] Identificar possíveis chaves/IDs
+- [ ] Documentar o significado de cada coluna
+  
+- `movimentacoes_caixa.csv`
+  
+- ## Tarefas
+
+- [ ] Importar todos os CSVs com pandas
+- [ ] Identificar quantidade de linhas
+- [ ] Identificar quantidade de colunas
+- [ ] Visualizar as primeiras linhas
+- [ ] Visualizar as últimas linhas
+- [ ] Identificar os tipos de dados
+- [ ] Identificar valores nulos
+- [ ] Identificar duplicidades
+- [ ] Identificar valores inconsistentes
+- [ ] Identificar possíveis chaves/IDs
+- [ ] Documentar o significado de cada coluna
+  
+- `controle_documentos.csv`
+  
+- ## Tarefas
+
+- [ ] Importar todos os CSVs com pandas
+- [ ] Identificar quantidade de linhas
+- [ ] Identificar quantidade de colunas
+- [ ] Visualizar as primeiras linhas
+- [ ] Visualizar as últimas linhas
+- [ ] Identificar os tipos de dados
+- [ ] Identificar valores nulos
+- [ ] Identificar duplicidades
+- [ ] Identificar valores inconsistentes
+- [ ] Identificar possíveis chaves/IDs
+- [ ] Documentar o significado de cada coluna
+  
+- `solicitacoes_internas.csv`
+  
+- ## Tarefas
+
+- [ ] Importar todos os CSVs com pandas
+- [ ] Identificar quantidade de linhas
+- [ ] Identificar quantidade de colunas
+- [ ] Visualizar as primeiras linhas
+- [ ] Visualizar as últimas linhas
+- [ ] Identificar os tipos de dados
+- [ ] Identificar valores nulos
+- [ ] Identificar duplicidades
+- [ ] Identificar valores inconsistentes
+- [ ] Identificar possíveis chaves/IDs
+- [ ] Documentar o significado de cada coluna
+  
+- `atividades_administrativas.csv`
+  
+- ## Tarefas
+
+- [ ] Importar todos os CSVs com pandas
+- [ ] Identificar quantidade de linhas
+- [ ] Identificar quantidade de colunas
+- [ ] Visualizar as primeiras linhas
+- [ ] Visualizar as últimas linhas
+- [ ] Identificar os tipos de dados
+- [ ] Identificar valores nulos
+- [ ] Identificar duplicidades
+- [ ] Identificar valores inconsistentes
+- [ ] Identificar possíveis chaves/IDs
+- [ ] Documentar o significado de cada coluna
+  
+- `contas_pagar_sujo.csv`
+  
 ## Tarefas
 
 - [ ] Importar todos os CSVs com pandas
