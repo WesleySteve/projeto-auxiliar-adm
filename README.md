@@ -83,7 +83,7 @@ Arquivos disponíveis
 - [x] Importar dados contas_receber CSVs com pandas
 - [x] Identificar quantidade de linhas
 - [x] Identificar quantidade de colunas
-- [ ] Visualizar as primeiras linhas
+- [x] Visualizar as primeiras linhas
 - [ ] Visualizar as últimas linhas
 - [ ] Identificar os tipos de dados
 - [ ] Identificar valores nulos
