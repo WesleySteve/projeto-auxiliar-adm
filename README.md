@@ -174,6 +174,22 @@ Arquivos disponíveis
 
 ---
 
+## Todas tarefas concluidas.
+
+- [ ] Importar todos os CSVs com pandas
+- [ ] Identificar quantidade de linhas
+- [ ] Identificar quantidade de colunas
+- [ ] Visualizar as primeiras linhas
+- [ ] Visualizar as últimas linhas
+- [ ] Identificar os tipos de dados
+- [ ] Identificar valores nulos
+- [ ] Identificar duplicidades
+- [ ] Identificar valores inconsistentes
+- [ ] Identificar possíveis chaves/IDs
+- [ ] Documentar o significado de cada coluna
+  
+---
+
 # 3. Limpeza e tratamento dos dados
 
 Utilize principalmente `contas_pagar_sujo.csv`.
