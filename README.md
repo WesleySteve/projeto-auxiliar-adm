@@ -26,7 +26,7 @@ O projeto foi estruturado para desenvolver competências encontradas em vagas re
 
 # 2. Conhecendo os dados
 
-Arquivos disponíveis:
+Arquivos disponíveis
 
 - `colaboradores.csv`
 
