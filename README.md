@@ -156,37 +156,22 @@ Arquivos disponíveis
 - [x] Identificar possíveis chaves/IDs
 - [x] Documentar o significado de cada coluna
   
-- `contas_pagar_sujo.csv`
-  
-## Tarefas
-
-- [ ] Importar todos os CSVs com pandas
-- [ ] Identificar quantidade de linhas
-- [ ] Identificar quantidade de colunas
-- [ ] Visualizar as primeiras linhas
-- [ ] Visualizar as últimas linhas
-- [ ] Identificar os tipos de dados
-- [ ] Identificar valores nulos
-- [ ] Identificar duplicidades
-- [ ] Identificar valores inconsistentes
-- [ ] Identificar possíveis chaves/IDs
-- [ ] Documentar o significado de cada coluna
-
 ---
 
-## Todas tarefas concluidas.
+## Todas tarefas concluidas
 
-- [ ] Importar todos os CSVs com pandas
-- [ ] Identificar quantidade de linhas
-- [ ] Identificar quantidade de colunas
-- [ ] Visualizar as primeiras linhas
-- [ ] Visualizar as últimas linhas
-- [ ] Identificar os tipos de dados
-- [ ] Identificar valores nulos
-- [ ] Identificar duplicidades
-- [ ] Identificar valores inconsistentes
-- [ ] Identificar possíveis chaves/IDs
-- [ ] Documentar o significado de cada coluna
+- [x] Importar todos os CSVs com pandas
+- [x] Identificar quantidade de linhas
+- [x] Identificar quantidade de colunas
+- [x] Visualizar as primeiras linhas
+- [x] Visualizar as últimas linhas
+- [x] Identificar os tipos de dados
+- [x] Identificar valores nulos
+- [x] Identificar duplicidades
+- [x] Identificar valores inconsistentes
+- [x] Identificar possíveis chaves/IDs
+- [x] Documentar o significado de cada coluna
+  
   
 ---
 
