@@ -149,9 +149,9 @@ Arquivos disponíveis
 - [x] Identificar quantidade de colunas
 - [x] Visualizar as primeiras linhas
 - [x] Visualizar as últimas linhas
-- [ ] Identificar os tipos de dados
-- [ ] Identificar valores nulos
-- [ ] Identificar duplicidades
+- [x] Identificar os tipos de dados
+- [x] Identificar valores nulos
+- [x] Identificar duplicidades
 - [ ] Identificar valores inconsistentes
 - [ ] Identificar possíveis chaves/IDs
 - [ ] Documentar o significado de cada coluna
