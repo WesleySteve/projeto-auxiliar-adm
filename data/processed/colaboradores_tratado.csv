@@ -1,0 +1,61 @@
+id_colaborador,nome,departamento,cargo,data_admissao,salario,status
+1001,Ana Paula Silva,Ti,Assistente,2022-01-10,2100.0,Ativo
+1002,Bruno Henrique Costa,Compras,Assistente,2022-02-07,1850.0,Férias
+1003,Camila Oliveira Santos,Comercial,Auxiliar,2022-03-08,4500.0,Ativo
+1004,Daniel Almeida,Ti,Assistente,2022-04-05,3800.0,Ativo
+1005,Eduardo Martins,Recursos Humanos,Coordenador,2022-05-04,3800.0,Ativo
+1006,Fernanda Souza,Comercial,Assistente,2022-06-01,3200.0,Ativo
+1007,Gabriel Rodrigues,Comercial,Analista,2022-06-30,4500.0,Afastado
+1008,Helena Ferreira,Ti,Analista,2022-07-28,2800.0,Férias
+1009,Igor Mendes,Financeiro,Analista,2022-08-26,2300.0,Ativo
+1010,Juliana Barbosa,Recursos Humanos,Analista,2022-09-23,2500.0,Ativo
+1011,Lucas Carvalho,Ti,Coordenador,2022-10-22,4500.0,Ativo
+1012,Mariana Ribeiro,Recursos Humanos,Analista Jr.,2022-11-19,3200.0,Ativo
+1013,Natalia Gomes,Recursos Humanos,Auxiliar,2022-12-18,2300.0,Ativo
+1014,Otavio Lima,Comercial,Analista,2023-01-15,2300.0,Ativo
+1015,Patricia Teixeira,Compras,Assistente,2023-02-13,1850.0,Afastado
+1016,Rafael Nunes,Recursos Humanos,Analista,2023-03-13,2300.0,Ativo
+1017,Renata Moreira,Operações,Assistente,2023-04-11,2800.0,Ativo
+1018,Sergio Alves,Comercial,Assistente,2023-05-09,3800.0,Ativo
+1019,Tatiane Rocha,Financeiro,Analista,2023-06-07,3200.0,Ativo
+1020,Vinicius Castro,Compras,Coordenador,2023-07-05,2300.0,Ativo
+1021,Aline Pereira,Operações,Assistente,2023-08-03,1850.0,Ativo
+1022,Beatriz Martins,Operações,Assistente,2023-09-01,2800.0,Ativo
+1023,Carlos Eduardo,Financeiro,Analista,2023-09-29,2100.0,Afastado
+1024,Diego Fernandes,Compras,Assistente,2023-10-28,3800.0,Ativo
+1025,Elaine Moura,Comercial,Assistente,2023-11-25,3800.0,Ativo
+1026,Fabio Correia,Administrativo,Analista,2023-12-24,3200.0,Ativo
+1027,Giovana Lopes,Compras,Analista,2024-01-21,3800.0,Ativo
+1028,Henrique Dias,Financeiro,Auxiliar,2024-02-19,2300.0,Férias
+1029,Isabela Ramos,Operações,Coordenador,2024-03-18,1850.0,Ativo
+1030,Joao Pedro,Comercial,Coordenador,2024-04-16,3800.0,Afastado
+1031,Karen Freitas,Compras,Assistente,2024-05-14,3800.0,Ativo
+1032,Leonardo Vieira,Administrativo,Coordenador,2024-06-12,2100.0,Ativo
+1033,Leticia Cardoso,Administrativo,Assistente,2024-07-10,2100.0,Ativo
+1034,Marcelo Pinto,Recursos Humanos,Auxiliar,2024-08-08,2500.0,Ativo
+1035,Monica Duarte,Recursos Humanos,Analista,2024-09-05,2800.0,Ativo
+1036,Nicolas Braga,Ti,Analista,2024-10-04,2300.0,Ativo
+1037,Priscila Monteiro,Financeiro,Analista,2024-11-01,3800.0,Férias
+1038,Rodrigo Tavares,Compras,Coordenador,2024-11-30,4500.0,Ativo
+1039,Sandra Batista,Compras,Auxiliar,2024-12-28,3800.0,Ativo
+1040,Thiago Rezende,Ti,Coordenador,2025-01-26,1850.0,Ativo
+1041,Valeria Campos,Operações,Coordenador,2025-02-24,2500.0,Ativo
+1042,William Araujo,Operações,Auxiliar,2025-03-24,2800.0,Ativo
+1043,Amanda Melo,Ti,Auxiliar,2025-04-22,4500.0,Ativo
+1044,Caio Ribeiro,Operações,Auxiliar,2025-05-20,2500.0,Ativo
+1045,Debora Martins,Recursos Humanos,Auxiliar,2025-06-18,3200.0,Ativo
+1046,Felipe Cunha,Compras,Analista,2025-07-16,2800.0,Ativo
+1047,Gisele Moraes,Ti,Analista Jr.,2025-08-14,3800.0,Afastado
+1048,Hugo Barros,Compras,Analista Jr.,2025-09-11,3800.0,Ativo
+1049,Ingrid Souza,Administrativo,Auxiliar,2025-10-10,2800.0,Ativo
+1050,Jonas Farias,Recursos Humanos,Analista Jr.,2025-11-07,3800.0,Ativo
+1051,Larissa Neves,Comercial,Analista Jr.,2025-12-06,2300.0,Ativo
+1052,Matheus Pires,Recursos Humanos,Auxiliar,2026-01-03,2800.0,Ativo
+1053,Nicole Martins,Ti,Analista Jr.,2026-02-01,2500.0,Ativo
+1054,Paulo Cesar,Comercial,Coordenador,2026-03-01,2800.0,Ativo
+1055,Raquel Mendes,Administrativo,Assistente,2026-03-30,4500.0,Ativo
+1056,Samuel Rocha,Ti,Assistente,2026-04-27,3800.0,Ativo
+1057,Taina Lopes,Financeiro,Auxiliar,2026-05-26,2300.0,Ativo
+1058,Vitor Hugo,Compras,Analista,2026-06-23,2300.0,Ativo
+1059,Yasmin Alves,Administrativo,Auxiliar,2026-07-22,3200.0,Férias
+1060,Wesley Martins,Compras,Analista,2026-08-20,2500.0,Ativo
