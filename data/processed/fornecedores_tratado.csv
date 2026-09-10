@@ -1,0 +1,21 @@
+id_fornecedor,fornecedor,categoria,cidade,prazo_pagamento_dias,status
+2001,Papelaria Central,Transporte,Álvares Machado,28,Ativo
+2002,Office Solutions,Limpeza,Santo Anastácio,7,Ativo
+2003,Limpeza Ideal,Limpeza,Álvares Machado,7,Ativo
+2004,Tecno Sistemas,Material Escritório,Regente Feijó,15,Inativo
+2005,Transportes Paulista,Alimentação,Álvares Machado,45,Ativo
+2006,Café & Cia,Serviços,Álvares Machado,15,Ativo
+2007,Gráfica Prudente,Transporte,Álvares Machado,21,Ativo
+2008,Móveis Corporativos,Tecnologia,Santo Anastácio,28,Inativo
+2009,Energia Sul,Alimentação,Santo Anastácio,15,Ativo
+2010,Telecom Brasil,Alimentação,Álvares Machado,7,Inativo
+2011,Manutenção Express,Limpeza,Santo Anastácio,28,Ativo
+2012,Segurança Alfa,Material Escritório,Presidente Prudente,28,Ativo
+2013,Água Mineral Oeste,Material Escritório,Presidente Prudente,7,Ativo
+2014,Posto Avenida,Transporte,Santo Anastácio,15,Ativo
+2015,Contabilidade Parceira,Limpeza,Santo Anastácio,7,Ativo
+2016,Correios Empresarial,Alimentação,Álvares Machado,45,Ativo
+2017,RH Consultoria,Serviços,Regente Feijó,28,Inativo
+2018,Marketing Criativo,Limpeza,Santo Anastácio,30,Ativo
+2019,Software Cloud,Transporte,Presidente Prudente,30,Ativo
+2020,Alimentos Bom Sabor,Transporte,Álvares Machado,21,Ativo
